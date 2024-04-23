@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Wdrożenie technologii blockchain w obszarze operacyjnym wiąże się z…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "czyniąc procesy bardziej przejrzystymi i bezpiecznymi",
+          "Correct": true
+        },
+        {
+          "Text": "czyniąc procesy tańszymi",
+          "Correct": false
+        },
+        {
+          "Text": "pomagając pracownikom pracować krócej",
+          "Correct": false
+        },
+        {
+          "Text": "lepsza organizacja",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wdrożenie blockchain w obszarze sprzedaży…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "umożliwi poprawę danych użytkowników i personalizację usług",
+          "Correct": true
+        },
+        {
+          "Text": "nie będzie istotne, ze względu na brak inwestycji w tym zakresie",
+          "Correct": false
+        },
+        {
+          "Text": "powinny być lepiej dostosowane, aby były przydatne",
+          "Correct": false
+        },
+        {
+          "Text": "zmniejszy wydatki",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wdrożenie technologii blockchain w zarządzaniu umożliwi usprawnienie…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Wszystkie pozostałe opcje są prawidłowe",
+          "Correct": true
+        },
+        {
+          "Text": "podejmowanie decyzji poprzez ład korporacyjny",
+          "Correct": false
+        },
+        {
+          "Text": "włączenie dyrektorów zewnętrznych",
+          "Correct": false
+        },
+        {
+          "Text": "skuteczniejszy nadzór i kontrola",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Jaka jest główna funkcja Obszaru Sprzedaży?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Uczestnictwo w różnorodnych działaniach mających na celu promocję zakupu produktu przez Klienta",
+          "Correct": true
+        },
+        {
+          "Text": "Obejmuje rozwój produktów/usług",
+          "Correct": false
+        },
+        {
+          "Text": "Zarządzanie budżetem i sprawami finansowymi",
+          "Correct": false
+        },
+        {
+          "Text": "Zakup materiałów od dostawców",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Zarządzanie przedsiębiorstwem zajmuje się…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "zarządzać zasobami produkcyjnymi organizacji",
+          "Correct": true
+        },
+        {
+          "Text": "obejmuje rozwój produktów i usług",
+          "Correct": false
+        },
+        {
+          "Text": "osiągnąć cele komercyjne",
+          "Correct": false
+        },
+        {
+          "Text": "zarządzać urlopami pracowników",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Obszar Operacyjny odpowiada za…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Rozwój produktów/usług",
+          "Correct": true
+        },
+        {
+          "Text": "Produkcja i realizacja projektów",
+          "Correct": true
+        },
+        {
+          "Text": "Logistyka",
+          "Correct": true
+        },
+        {
+          "Text": "Żadna z opcji nie jest prawidłowa",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Zasady technologii blockchain, które mogą pomóc w rozwoju biznesu, to:",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Ograniczanie ryzyka oraz zapewnienie ochrony i przejrzystości danych",
+          "Correct": true
+        },
+        {
+          "Text": "Większa legalność i przejrzystość",
+          "Correct": true
+        },
+        {
+          "Text": "Uproszczenie i optymalizacja systemów",
+          "Correct": true
+        },
+        {
+          "Text": "Poprawa relacji pracowniczych",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchain może…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "usprawnić komunikację i przesyłanie dokumentów z klientami, dostawcami i personelem",
+          "Correct": true
+        },
+        {
+          "Text": "kontrolować i poprawiać jakość informacji",
+          "Correct": true
+        },
+        {
+          "Text": "udzielić pozwolenia na dostęp",
+          "Correct": true
+        },
+        {
+          "Text": "lepiej zarządzać budżetem",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Pozwoli na to wdrożenie blockchainu w obszarze sprzedaży",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "usprawnienia w pozyskiwaniu finansowania",
+          "Correct": true
+        },
+        {
+          "Text": "otwartość na inwestorów",
+          "Correct": true
+        },
+        {
+          "Text": "ustanowienie gwarancji i/lub rentowności inwestycji",
+          "Correct": true
+        },
+        {
+          "Text": "Żadna z opcji nie jest prawidłowa",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchain może przydać się w…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Obszar operacyjny",
+          "Correct": true
+        },
+        {
+          "Text": "Obszar sprzedaży",
+          "Correct": true
+        },
+        {
+          "Text": "Obszar finansów",
+          "Correct": true
+        },
+        {
+          "Text": "Obszar Zasobów Ludzkich",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "System Blockchain może znaleźć zastosowanie w obszarach operacyjnych, sprzedażowych i finansowych oraz w zarządzaniu przedsiębiorstwem.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain może usprawnić procesy identyfikowalności w obszarze operacyjnym.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain to struktura technologiczna, która nie wnosi nic nowego do sprzedaży i relacji z klientami, gdyż jest czymś czysto technologicznym.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "W obszarze zarządzania przedsiębiorstwem blockchain może pomóc w podejmowaniu decyzji, ponieważ przyczynia się do przejrzystości i ładu korporacyjnego.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "W obszarze zarządzania przedsiębiorstwem blockchain nie może pomóc w podejmowaniu decyzji, ponieważ wszystko jest pod większą kontrolą, a proces jest bardziej skomplikowany.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

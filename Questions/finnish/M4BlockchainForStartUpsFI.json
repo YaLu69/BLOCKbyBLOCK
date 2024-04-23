@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Mikä rooli hajauttamisella on startup-yritysten blockchain-teknologiassa?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Turvallisuuden parantaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Tapahtuman nopeuden vähentäminen",
+          "Correct": false
+        },
+        {
+          "Text": "Keskitetyn hallinnan lisääminen",
+          "Correct": false
+        },
+        {
+          "Text": "Minimoi läpinäkyvyyden",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä on ensisijainen tarkoitus käyttää älykkäitä sopimuksia blockchain-teknologiassa startup-yrityksissä?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Laillisten sopimusten täytäntöönpano",
+          "Correct": true
+        },
+        {
+          "Text": "Tietosuojan parantaminen",
+          "Correct": false
+        },
+        {
+          "Text": "Verkkoturvallisuuden parantaminen",
+          "Correct": false
+        },
+        {
+          "Text": "Maksuprosessien virtaviivaistaminen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä on keskeinen ominaisuus, joka erottaa julkisen lohkoketjun yksityisestä?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Avoin pääsy",
+          "Correct": true
+        },
+        {
+          "Text": "Rajoitettu osallistuja",
+          "Correct": false
+        },
+        {
+          "Text": "Hidas tapahtumanopeus",
+          "Correct": false
+        },
+        {
+          "Text": "Keskitetty ohjaus",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Miten lohkoketju lisää startup-yritysten liiketoiminnan läpinäkyvyyttä?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Jaetun pääkirjan tarjoaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Kaikkien tietojen salaus",
+          "Correct": false
+        },
+        {
+          "Text": "Anonymiteetin salliminen",
+          "Correct": false
+        },
+        {
+          "Text": "Keskitetty ohjaus",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä konsensusmekanismi liittyy yleisesti lohkoketjuverkkoihin?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Todistus panoksesta (PoS)",
+          "Correct": true
+        },
+        {
+          "Text": "Valtuutustodistus (PoA)",
+          "Correct": false
+        },
+        {
+          "Text": "Todistus työstä (PoW)",
+          "Correct": false
+        },
+        {
+          "Text": "Delegoitu panostodistus (DPoS)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitä mahdollisia hyötyjä lohkoketjuteknologian käyttöönotosta startupissa on?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Parannettu suojaus",
+          "Correct": true
+        },
+        {
+          "Text": "Lisääntynyt läpinäkyvyys",
+          "Correct": true
+        },
+        {
+          "Text": "Pienemmät käyttökustannukset",
+          "Correct": true
+        },
+        {
+          "Text": "Nopeammat tapahtumanopeudet",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitkä komponentit ovat välttämättömiä onnistuneelle lohkoketjun käyttöönotolle käynnistyksessä? ",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Konsensusmekanismi",
+          "Correct": true
+        },
+        {
+          "Text": "Älykkäät sopimukset",
+          "Correct": true
+        },
+        {
+          "Text": "Julkisen avaimen infrastruktuuri (PKI)",
+          "Correct": false
+        },
+        {
+          "Text": "Keskitetty tietokanta",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Kuinka startupit voivat hyödyntää lohkoketjua toimitusketjun hallintaan?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Parannettu jäljitettävyys",
+          "Correct": true
+        },
+        {
+          "Text": "Reaaliaikainen seuranta",
+          "Correct": true
+        },
+        {
+          "Text": "Kustannusten vähentäminen",
+          "Correct": true
+        },
+        {
+          "Text": "Kyberturvallisuusriskien poistaminen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitä haasteita startup-yritykset voivat kohdata ottaessaan käyttöön blockchain-teknologian?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Integraation monimutkaisuus",
+          "Correct": true
+        },
+        {
+          "Text": "Rajoitettu skaalautuvuus",
+          "Correct": true
+        },
+        {
+          "Text": "Säännösten noudattaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Lisääntynyt keskitys",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitkä toimialat voivat hyötyä eniten lohkoketjun käyttöönotosta startupeissa?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Terveydenhuolto",
+          "Correct": true
+        },
+        {
+          "Text": "Maatalous",
+          "Correct": true
+        },
+        {
+          "Text": "Viihde",
+          "Correct": false
+        },
+        {
+          "Text": "Muoti",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchain-teknologia liittyy ensisijaisesti kryptovaluuttoihin.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Lohkoketjun älykkäät sopimukset mahdollistavat ennalta määriteltyjen ehtojen toteuttamisen ilman välittäjien tarvetta.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Lohkoketjutekniikka on muuttumaton, eli kun tiedot on tallennettu, sitä ei voi muuttaa.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Lohkoketjun julkisia ja yksityisiä avaimia käytetään todentamiseen ja tietojen salaukseen.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain voi poistaa kolmannen osapuolen vahvistuksen tarpeen, mikä vähentää käynnistysyritysten transaktiokustannuksia.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    }
+  ]
+}

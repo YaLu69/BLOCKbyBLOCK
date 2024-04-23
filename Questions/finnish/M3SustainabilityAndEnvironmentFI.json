@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Mikä on ensisijainen etu lohkoketjun käyttämisestä toimitusketjun läpinäkyvyyden kannalta ympäristön kestävyyden kannalta?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Parannettu jäljitettävyys",
+          "Correct": true
+        },
+        {
+          "Text": "Lisääntynyt opasiteetti",
+          "Correct": false
+        },
+        {
+          "Text": "Lisääntynyt saastuminen",
+          "Correct": false
+        },
+        {
+          "Text": "Keskitetty ohjaus",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä rooli blockchainilla voi olla uusiutuvien energialähteiden edistämisessä?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Mahdollistaa läpinäkyvät ja jäljitettävät energiatapahtumat",
+          "Correct": true
+        },
+        {
+          "Text": "Kannustetaan energiantuotannon keskitettyä valvontaa",
+          "Correct": false
+        },
+        {
+          "Text": "Helpottaa anonyymiä energiankulutusta",
+          "Correct": false
+        },
+        {
+          "Text": "Kasvava riippuvuus uusiutumattomasta energiasta",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Miten lohkoketju edistää kestävää jätehuoltoa?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Jätehuollon valvonnan hajauttaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Laittoman kaatopaikan edistäminen",
+          "Correct": false
+        },
+        {
+          "Text": "Lisääntynyt opasiteetti jätehuoltoprosesseissa",
+          "Correct": false
+        },
+        {
+          "Text": "Kertakäyttöisen muovin tuotannon edistäminen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä on mahdollinen ympäristöhyöty lohkoketjun käytöstä kestävässä maataloudessa?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Elintarvikkeiden toimitusketjujen jäljitettävyyden parantaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Torjunta-aineiden käytön keskitetty valvonta",
+          "Correct": false
+        },
+        {
+          "Text": "Metsien hävittämisen edistäminen maatalouden laajentamiseksi",
+          "Correct": false
+        },
+        {
+          "Text": "Kasvava riippuvuus haitallisiin viljelykäytäntöihin",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Kuinka lohkoketjuteknologia voi edistää ympäristönsuojelun hiilidioksidipäästöjä?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Hiilihyvitystapahtumien tarkistaminen ja kirjaaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Metsien hävitysprosessien automatisointi",
+          "Correct": false
+        },
+        {
+          "Text": "Ilmansaasteiden lisääntyminen",
+          "Correct": false
+        },
+        {
+          "Text": "Keskitetty päästötietojen valvonta",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Miten lohkoketjuteknologia edistää kestävää maataloutta?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Elintarvikkeiden toimitusketjujen jäljitettävyyden parantaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Helpottaa maatalousprosessien hajautettua valvontaa",
+          "Correct": true
+        },
+        {
+          "Text": "Kasvava riippuvuus haitallisiin viljelykäytäntöihin",
+          "Correct": false
+        },
+        {
+          "Text": "Metsien hävittämisen edistäminen maatalouden laajentamiseksi",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Millä tavoin lohkoketju voi tukea ympäristönsuojelutoimia?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Hiilihyvitystapahtumien tarkistaminen ja kirjaaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Suojelun rahoituksen läpinäkyvyyden lisääminen",
+          "Correct": true
+        },
+        {
+          "Text": "Laittomien hakkuuprosessien automatisointi",
+          "Correct": false
+        },
+        {
+          "Text": "Sallii nimettömät villieläinkauppatapahtumat",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Miten lohkoketju edistää kestävää jätehuoltoa?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Jätehuollon valvonnan hajauttaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Jätteiden hävittämisen jäljitettävyyden parantaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Kannustetaan laitonta kaatotoimintaa",
+          "Correct": false
+        },
+        {
+          "Text": "Kertakäyttöisen muovituotannon edistäminen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Miten lohkoketjuteknologia voi edistää kestäviä käytäntöjä jätehuollossa?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Jätehuollon jäljitettävyyden parantaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Kierrätysprosessien parantaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Laittoman polkumyynnin lisääntyminen",
+          "Correct": false
+        },
+        {
+          "Text": "Helpottaa luvatonta jätteiden vientiä",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitä mahdollisia hyötyjä lohkoketjun integroimisesta ympäristövaikutusten arviointien seurantaan on?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Tietojen läpinäkyvyyden varmistaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Vastuullisuuden parantaminen raportoinnissa",
+          "Correct": true
+        },
+        {
+          "Text": "Greenwashing-käytäntöjen helpottaminen",
+          "Correct": false
+        },
+        {
+          "Text": "Hyväksyntäprosessien virtaviivaistaminen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchainin hajautettu luonne voi lisätä läpinäkyvyyttä ja vastuullisuutta ympäristötietojen raportoinnissa.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Lohkoketjun älykkäät sopimukset voivat auttaa automatisoimaan ja optimoimaan resurssien allokoinnin kestävällä tavalla.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain-teknologia on yksin vastuussa ympäristön saastumisen lisäämisestä.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Ympäristötarkoituksiin tarkoitetussa lohkoketjuverkossa solmuilla on yhtäläinen määräysvalta päätöksenteossa.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchainin muuttumattomuus varmistaa, että historiallisia ympäristötietueita ei voida peukaloida.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Wat is een innovatie?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Resultaten van ideeën geïmplementeerd in nieuwe producten, diensten, processen etc",
+          "Correct": true
+        },
+        {
+          "Text": "Maatregelen om de nationale regelgeving en wetten te volgen",
+          "Correct": false
+        },
+        {
+          "Text": "Focussen op bestaande structuren en processen",
+          "Correct": false
+        },
+        {
+          "Text": "Maatregelen om het financiële succes van een organisatie te maximaliseren",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Waar liggen de focus van productinnovaties?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Het ontwikkelen en implementeren van nieuwe producten",
+          "Correct": true
+        },
+        {
+          "Text": "Het ontwerpen van nieuwe processen",
+          "Correct": false
+        },
+        {
+          "Text": "Medewerkers ondersteunen om productiever te worden",
+          "Correct": false
+        },
+        {
+          "Text": "Het ondersteunen van sociale aspecten in een organisatie",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat is de focus van de samenwerking tussen PepsiCo en de startup Security Matters?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Ontwikkeling van op BCT gebaseerde oplossingen voor het identificeren, sorteren en verpakken van afval",
+          "Correct": true
+        },
+        {
+          "Text": "BCT gebruiken voor het creëren van virtuele winkels",
+          "Correct": false
+        },
+        {
+          "Text": "Het aanbieden van virtuele tokens voor online winkels",
+          "Correct": false
+        },
+        {
+          "Text": "Het ontwikkelen van een game-gebaseerd systeem om kopers te motiveren",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Het belangrijkste voordeel van het gebruik van BCT in open innovatieprocessen is de vraag:",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Wie moet wat krijgen voor zijn bijdrage?",
+          "Correct": true
+        },
+        {
+          "Text": "Hoeveel moet ik investeren?",
+          "Correct": false
+        },
+        {
+          "Text": "Hoe kan ik zoveel mogelijk klanten bereiken?",
+          "Correct": false
+        },
+        {
+          "Text": "Waar kan ik aanvullende financieringsstructuren vinden?",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "BCT in relatie tot innovatiestrategieën kan worden omschreven als...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "De belangrijkste uitvinding na internet",
+          "Correct": true
+        },
+        {
+          "Text": "Meer bureaucratische hindernissen voor bedrijven",
+          "Correct": false
+        },
+        {
+          "Text": "Meer complexiteit in de productie",
+          "Correct": false
+        },
+        {
+          "Text": "Een bundel instrumenten gericht op de Duurzame Ontwikkelingsdoelstellingen van de Verenigde Naties ",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welke van de volgende punten zijn soorten innovaties?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Procesinnovatie",
+          "Correct": true
+        },
+        {
+          "Text": "Marktinnovatie",
+          "Correct": true
+        },
+        {
+          "Text": "Product innovatie",
+          "Correct": true
+        },
+        {
+          "Text": "Financiële innovatie",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat zijn fasen van een innovatieproces?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Innovatie Management",
+          "Correct": true
+        },
+        {
+          "Text": "Implementatie",
+          "Correct": true
+        },
+        {
+          "Text": "Invoer",
+          "Correct": true
+        },
+        {
+          "Text": "Juridisch advies",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Op welke van de volgende terreinen wordt BCT gebruikt in open innovatieprocessen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "IPR",
+          "Correct": true
+        },
+        {
+          "Text": "Samenwerking en communicatie",
+          "Correct": true
+        },
+        {
+          "Text": "Waardetoe-eigening ",
+          "Correct": true
+        },
+        {
+          "Text": "Technische monitoring",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Structurele innovaties richten zich op...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Nieuwe functiemodellen",
+          "Correct": true
+        },
+        {
+          "Text": "HR-ontwikkeling",
+          "Correct": true
+        },
+        {
+          "Text": "Logistiek",
+          "Correct": true
+        },
+        {
+          "Text": "Dienst creatie",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "De vakgebieden van innovatiemanagement zijn...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Detectie en evaluatie van innovatieve processen binnen en buiten een bedrijf",
+          "Correct": true
+        },
+        {
+          "Text": "Het plannen, aansturen, implementeren en evalueren van alle innovatieve activiteiten in een bedrijf",
+          "Correct": true
+        },
+        {
+          "Text": "Definitie van een datum voor de marktintroductie van innovaties",
+          "Correct": true
+        },
+        {
+          "Text": "Evaluatie van financiële en menselijke hulpbronnen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Ideeën zijn resultaten van zowel interne als externe bronnen.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "BCT ondersteunt innovatieprocessen op verschillende niveaus.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "McDonald's vermeed het gebruik van BCT vanwege juridische problemen.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "BCT-systemen veroorzaken problemen op het gebied van IPR.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Procesinnovaties zijn gericht op het openen van nieuwe markten.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

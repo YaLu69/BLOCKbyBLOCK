@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Mikä on innovaatio?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Uusissa tuotteissa, palveluissa, prosesseissa jne. toteutettujen ideoiden tuloksia",
+          "Correct": true
+        },
+        {
+          "Text": "Toimenpiteet kansallisten määräysten ja lakien mukaisesti",
+          "Correct": false
+        },
+        {
+          "Text": "Keskittyminen olemassa oleviin rakenteisiin ja prosesseihin",
+          "Correct": false
+        },
+        {
+          "Text": "Toimenpiteet organisaation taloudellisen menestyksen maksimoimiseksi",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä on tuoteinnovaatioiden painopiste?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Uusien tuotteiden kehittäminen ja käyttöönotto",
+          "Correct": true
+        },
+        {
+          "Text": "Uusien prosessien suunnittelu",
+          "Correct": false
+        },
+        {
+          "Text": "Työntekijöiden tukeminen tuottavuuden lisäämisessä",
+          "Correct": false
+        },
+        {
+          "Text": "Yhteiskunnallisten näkökohtien tukeminen organisaatiossa",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä on PepsiCo:n ja startupin Security Mattersin yhteistyön painopiste?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "BCT-pohjaisten ratkaisujen kehittäminen jätteiden tunnistamiseen, lajitteluun ja pakkaamiseen",
+          "Correct": true
+        },
+        {
+          "Text": "BCT:n käyttö virtuaalikauppojen luomiseen",
+          "Correct": false
+        },
+        {
+          "Text": "Tarjoaa virtuaalisia tokeneja verkkokaupoille",
+          "Correct": false
+        },
+        {
+          "Text": "Pelipohjaisen järjestelmän kehittäminen ostajien motivoimiseksi",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Tärkein hyöty BCT:n käytöstä avoimissa innovaatioprosesseissa on kysymys:",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Kenen pitäisi saada mitä panoksestaan?",
+          "Correct": true
+        },
+        {
+          "Text": "Kuinka paljon minun pitäisi sijoittaa?",
+          "Correct": false
+        },
+        {
+          "Text": "Miten tavoitan mahdollisimman monta asiakasta?",
+          "Correct": false
+        },
+        {
+          "Text": "Mistä löydän lisärahoitusrakenteita?",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "BCT suhteessa innovaatiostrategioihin voidaan kuvata...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Internetin jälkeen tärkein keksintö",
+          "Correct": true
+        },
+        {
+          "Text": "Lisää byrokraattisia esteitä yrityksille",
+          "Correct": false
+        },
+        {
+          "Text": "Monimutkaisempi tuotanto",
+          "Correct": false
+        },
+        {
+          "Text": "Joukko työkaluja, jotka keskittyvät Yhdistyneiden Kansakuntien kestävän kehityksen tavoitteisiin ",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitkä seuraavista kohdista ovat innovaatiotyyppejä?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Prosessin innovaatiot",
+          "Correct": true
+        },
+        {
+          "Text": "Markkinainnovaatiot",
+          "Correct": true
+        },
+        {
+          "Text": "Tuoteinnovaatiot",
+          "Correct": true
+        },
+        {
+          "Text": "Taloudellinen innovaatio",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitkä ovat innovaatioprosessin vaiheet?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Innovaatioiden hallinta",
+          "Correct": true
+        },
+        {
+          "Text": "Toteutus",
+          "Correct": true
+        },
+        {
+          "Text": "Syöte",
+          "Correct": true
+        },
+        {
+          "Text": "Laillinen neuvo",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Millä seuraavista aloista BCT:tä käytetään avoimissa innovaatioprosesseissa?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "IPR",
+          "Correct": true
+        },
+        {
+          "Text": "Yhteistyö ja viestintä",
+          "Correct": true
+        },
+        {
+          "Text": "Arvonotto ",
+          "Correct": true
+        },
+        {
+          "Text": "Tekninen seuranta",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Rakenteelliset innovaatiot keskittyvät...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Uusia työmalleja",
+          "Correct": true
+        },
+        {
+          "Text": "HR-kehitys",
+          "Correct": true
+        },
+        {
+          "Text": "Logistiikka",
+          "Correct": true
+        },
+        {
+          "Text": "Palvelun luominen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Innovaatiojohtamisen alat ovat...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Innovatiivisten prosessien havaitseminen ja arviointi yrityksessä ja sen ulkopuolella",
+          "Correct": true
+        },
+        {
+          "Text": "Suunnitella, ohjata, toteuttaa ja arvioida kaikkia innovatiivisia toimintoja yrityksessä",
+          "Correct": true
+        },
+        {
+          "Text": "Innovaatioiden markkinoilletulon päivämäärän määrittely",
+          "Correct": true
+        },
+        {
+          "Text": "Taloudellisten ja henkilöresurssien arviointi",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Ideat ovat sekä sisäisten että ulkoisten lähteiden tuloksia.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "BCT tukee innovaatioprosesseja eri tasoilla.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "McDonald´s vältti BCT:n käyttöä oikeudellisten ongelmien vuoksi.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "BCT-järjestelmät aiheuttavat IPR-ongelmia.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Prosessi-innovaatiot keskittyvät uusien markkinoiden avaamiseen.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

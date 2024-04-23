@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Welke van de volgende is geen gebruikelijk kenmerk van blockchain-beveiliging?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Frequente gecentraliseerde gegevensback-ups",
+          "Correct": true
+        },
+        {
+          "Text": "Cryptografie met publieke sleutel",
+          "Correct": false
+        },
+        {
+          "Text": "Proof of Work of Proof of Stake consensusmechanismen",
+          "Correct": false
+        },
+        {
+          "Text": "Onveranderlijke transactiegrootboeken",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welk consensusalgoritme vereist dat validators hun cryptocurrency vasthouden en inzetten als een vorm van economische stimulans om transacties te valideren?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Bewijs van inzet (PoS)",
+          "Correct": true
+        },
+        {
+          "Text": "Bewijs van werk (PoW)",
+          "Correct": false
+        },
+        {
+          "Text": "Gedelegeerd bewijs van inzet (DPoS)",
+          "Correct": false
+        },
+        {
+          "Text": "Bewijs van autoriteit (PoA)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welke methode wordt in de blockchaintechnologie vaak gebruikt om ervoor te zorgen dat er tijdens een transactie niet met gegevens is geknoeid?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Hashing",
+          "Correct": true
+        },
+        {
+          "Text": "Tijdstempeling",
+          "Correct": false
+        },
+        {
+          "Text": "Asymmetrische encryptie",
+          "Correct": false
+        },
+        {
+          "Text": "Transactievergrendeling",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welke encryptietechniek gebruikt blockchain om de veiligheid van digitale gegevens te waarborgen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "SHA-256 (veilig hash-algoritme-256 bits)",
+          "Correct": true
+        },
+        {
+          "Text": "AES (geavanceerde coderingsstandaard)",
+          "Correct": false
+        },
+        {
+          "Text": "DES (standaard voor gegevenscodering)",
+          "Correct": false
+        },
+        {
+          "Text": "RSA (Rivest-Shamir-Adleman)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welk cryptografische concept wordt in de blockchain vooral gebruikt om blokken aan elkaar te koppelen en zo de integriteit van de hele keten te waarborgen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Cryptografische hashfuncties",
+          "Correct": true
+        },
+        {
+          "Text": "Virtuele particuliere netwerken (VPN)",
+          "Correct": false
+        },
+        {
+          "Text": "Secure Socket Layer (SSL)-certificaten",
+          "Correct": false
+        },
+        {
+          "Text": "Wachtwoordgebaseerde codering (PBE)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welke van de volgende zijn fundamentele principes die bijdragen aan de veiligheid van een blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Decentralisatie",
+          "Correct": true
+        },
+        {
+          "Text": "Data encryptie",
+          "Correct": true
+        },
+        {
+          "Text": "Onveranderlijke transactielogboeken",
+          "Correct": true
+        },
+        {
+          "Text": "Regelmatige wachtwoordupdates",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat zijn de belangrijkste kenmerken van blockchain-technologie die de veiligheid en betrouwbaarheid ervan garanderen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Gebruik van consensusprotocollen",
+          "Correct": true
+        },
+        {
+          "Text": "Cryptografische hashfuncties",
+          "Correct": true
+        },
+        {
+          "Text": "Gedistribueerde grootboektechnologie",
+          "Correct": true
+        },
+        {
+          "Text": "Verbinding met een centrale database voor validatie",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welke cryptografische technieken worden in blockchain gebruikt om ervoor te zorgen dat transacties veilig en verifieerbaar zijn?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Cryptografische hashfuncties",
+          "Correct": true
+        },
+        {
+          "Text": "Asymmetrische encryptie",
+          "Correct": true
+        },
+        {
+          "Text": "Symmetrische codering",
+          "Correct": false
+        },
+        {
+          "Text": "Antivirus software",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welke twee van de volgende elementen maken deel uit van beveiligde gegevensoverdrachtprotocollen in blockchain-technologie?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Peer-to-peer (P2P) netwerkstructuur",
+          "Correct": true
+        },
+        {
+          "Text": "Digitale handtekeningen",
+          "Correct": true
+        },
+        {
+          "Text": "Gecentraliseerde gegevensvalidatie",
+          "Correct": false
+        },
+        {
+          "Text": "Kwantumversleuteling",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welke encryptietechnieken vormen op het gebied van blockchaintechnologie de basis voor het creëren van een veilige en betrouwbare omgeving?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Publieke-sleutelinfrastructuur (PKI) voor digitale identiteiten",
+          "Correct": true
+        },
+        {
+          "Text": "Elliptic Curve Cryptography (ECC) voor digitale handtekeningen",
+          "Correct": true
+        },
+        {
+          "Text": "SSL/TLS-codering voor gegevens die onderweg zijn",
+          "Correct": false
+        },
+        {
+          "Text": "Het ophalen van gegevens. ",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Een blockchain is veilig omdat de datastructuur eventuele wijzigingen in de gegevens voorkomt zodra deze aan het grootboek zijn toegevoegd.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "In een blockchain komt de veiligheid in gevaar als meer dan 50% van de knooppunten ermee instemt een transactie te wijzigen in een zogenaamde 51%-aanval.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain-transacties zijn veilig omdat elke transactie gecodeerd is en rechtstreeks van de ene partij naar de andere wordt verzonden, zonder tussenpersonen.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Hash-functies in blockchain zijn omkeerbaar, waardoor deelnemers de oorspronkelijke invoer kunnen afleiden uit de uitvoer-hashwaarde.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Symmetrische encryptie wordt vaak gebruikt in blockchain voor het beveiligen van transacties, omdat het efficiënter is dan asymmetrische encryptie.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

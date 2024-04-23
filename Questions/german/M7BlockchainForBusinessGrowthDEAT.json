@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Die Implementierung der Blockchain-Technologie im operativen Bereich erfordert…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Prozesse transparenter und sicherer machen",
+          "Correct": true
+        },
+        {
+          "Text": "Prozesse billiger machen",
+          "Correct": false
+        },
+        {
+          "Text": "den Mitarbeitern helfen, weniger zu arbeiten",
+          "Correct": false
+        },
+        {
+          "Text": "bessere Organisation",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Die Implementierung von Blockchain im Vertriebsbereich…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "wird Verbesserungen in Bezug auf Benutzerdaten und Personalisierung von Diensten ermöglichen",
+          "Correct": true
+        },
+        {
+          "Text": "wird nicht wichtig sein, da diesbezüglich keine Investitionen getätigt werden",
+          "Correct": false
+        },
+        {
+          "Text": "sollten besser angepasst werden, um nützlich zu sein",
+          "Correct": false
+        },
+        {
+          "Text": "wird die Kosten senken",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Die Implementierung der Blockchain-Technologie im Management wird Verbesserungen in… ermöglichen.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Alle anderen Optionen sind korrekt",
+          "Correct": true
+        },
+        {
+          "Text": "Entscheidungsfindung durch Corporate Governance",
+          "Correct": false
+        },
+        {
+          "Text": "die Einbindung externer Geschäftsführer",
+          "Correct": false
+        },
+        {
+          "Text": "effektivere Überwachung und Kontrolle",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Was ist die Hauptfunktion des Vertriebsbereichs?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Teilnahme an verschiedenen Aktivitäten, um den Kauf eines Produkts durch einen Kunden zu fördern",
+          "Correct": true
+        },
+        {
+          "Text": "Umfassend die Entwicklung von Produkten/Dienstleistungen",
+          "Correct": false
+        },
+        {
+          "Text": "Verwaltung des Budgets und finanzieller Angelegenheiten",
+          "Correct": false
+        },
+        {
+          "Text": "Einkauf von Materialien bei Lieferanten",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Die Geschäftsführung ist zuständig für…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "die produktiven Ressourcen einer Organisation verwalten",
+          "Correct": true
+        },
+        {
+          "Text": "umfasst die Entwicklung von Produkten und Dienstleistungen",
+          "Correct": false
+        },
+        {
+          "Text": "die kommerziellen Ziele erreichen",
+          "Correct": false
+        },
+        {
+          "Text": "Verwalten Sie die Feiertage der Mitarbeiter",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Der Operationsbereich ist zuständig für…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Entwicklung von Produkten/Dienstleistungen",
+          "Correct": true
+        },
+        {
+          "Text": "Produktion und Durchführung der Projekte",
+          "Correct": true
+        },
+        {
+          "Text": "Logistik",
+          "Correct": true
+        },
+        {
+          "Text": "Keine der Optionen ist richtig",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Die Prinzipien der Blockchain-Technologie, die das Unternehmenswachstum unterstützen können, sind:",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Risiken reduzieren und Datenschutz und Klarheit gewährleisten",
+          "Correct": true
+        },
+        {
+          "Text": "Verbesserte Legitimität und Transparenz",
+          "Correct": true
+        },
+        {
+          "Text": "Vereinfachung und Optimierung von Systemen",
+          "Correct": true
+        },
+        {
+          "Text": "Verbesserung der Mitarbeiterbeziehungen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchain kann…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verbessern Sie die Kommunikation und den Dokumententransfer mit Kunden, Lieferanten und Mitarbeitern",
+          "Correct": true
+        },
+        {
+          "Text": "Kontrolle und Verbesserung der Informationsqualität",
+          "Correct": true
+        },
+        {
+          "Text": "Zugriffserlaubnis erteilen",
+          "Correct": true
+        },
+        {
+          "Text": "das Budget besser verwalten",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Die Implementierung von Blockchain im Vertriebsbereich wird dies ermöglichen",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verbesserungen bei der Finanzierung",
+          "Correct": true
+        },
+        {
+          "Text": "Offenheit gegenüber Investoren",
+          "Correct": true
+        },
+        {
+          "Text": "Festlegung von Garantien und/oder Rentabilität von Investitionen",
+          "Correct": true
+        },
+        {
+          "Text": "Keine der Optionen ist richtig",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchain kann nützlich sein in…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Operationsbereich",
+          "Correct": true
+        },
+        {
+          "Text": "Verkaufsfläche",
+          "Correct": true
+        },
+        {
+          "Text": "Finanzbereich",
+          "Correct": true
+        },
+        {
+          "Text": "Bereich Personalwesen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Das Blockchain-System kann in den Bereichen Betrieb, Vertrieb und Finanzen sowie in der Unternehmensführung eingesetzt werden.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain kann die Rückverfolgbarkeitsprozesse im Betriebsbereich verbessern.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain ist eine technologische Struktur, die für den Vertrieb und die Kundenbeziehung nichts Neues bringt, da es sich um etwas rein Technologisches handelt.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Im Bereich des Unternehmensmanagements kann Blockchain bei der Entscheidungsfindung helfen, da es zu Transparenz und Unternehmensführung beiträgt.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Im Bereich des Unternehmensmanagements kann Blockchaing nicht bei der Entscheidungsfindung helfen, da alles einer höheren Kontrolle unterliegt und der Prozess komplizierter ist.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

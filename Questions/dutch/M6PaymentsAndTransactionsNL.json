@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Wat zijn de belangrijkste voordelen van op blockchain gebaseerde betalingen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Alle andere antwoorden",
+          "Correct": true
+        },
+        {
+          "Text": "Snelheid",
+          "Correct": false
+        },
+        {
+          "Text": "Weinig energie",
+          "Correct": false
+        },
+        {
+          "Text": "Beveiliging",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welke van de volgende is geen grote uitdaging bij blockchain-betalingen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Anonimiteit van de gebruiker",
+          "Correct": true
+        },
+        {
+          "Text": "Complexe transactieprocessen",
+          "Correct": false
+        },
+        {
+          "Text": "Hoge transactiekosten",
+          "Correct": false
+        },
+        {
+          "Text": "Complexe schaalbaarheidsproblemen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat betekent de term ‘Smart Contracts’ in de context van blockchain-betalingen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Automatische en zelfuitvoerende contracten",
+          "Correct": true
+        },
+        {
+          "Text": "Betalingen die illegaal zijn",
+          "Correct": false
+        },
+        {
+          "Text": "Transacties die eenmalig zijn",
+          "Correct": false
+        },
+        {
+          "Text": "Betalingen waarvoor twee smartphones nodig zijn",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welke van de volgende cryptocurrencies wordt het meest gebruikt voor transacties op de blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Bitcoin",
+          "Correct": true
+        },
+        {
+          "Text": "Ethereum",
+          "Correct": false
+        },
+        {
+          "Text": "Rimpeling",
+          "Correct": false
+        },
+        {
+          "Text": "Litecoin",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat is de belangrijkste toepassing van blockchain-technologie bij financiële transacties?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Het uitvoeren van intermediaire betalingen",
+          "Correct": true
+        },
+        {
+          "Text": "Het beveiligen van persoonlijke gegevens",
+          "Correct": false
+        },
+        {
+          "Text": "Grote hoeveelheden gegevens opslaan in de cloud",
+          "Correct": false
+        },
+        {
+          "Text": "Het maken van back-ups van transacties",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat is het primaire doel van een publieke sleutel bij blockchain-transacties?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Om transactiegegevens te versleutelen",
+          "Correct": true
+        },
+        {
+          "Text": "Om afzender en ontvanger te identificeren",
+          "Correct": true
+        },
+        {
+          "Text": "Om transactiegegevens te decoderen",
+          "Correct": false
+        },
+        {
+          "Text": "Om nieuwe cryptocurrency te minen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat is een potentieel voordeel van het gebruik van een gedistribueerd grootboek in blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verbeterde schaalbaarheid",
+          "Correct": true
+        },
+        {
+          "Text": "Hogere transactiesnelheid",
+          "Correct": true
+        },
+        {
+          "Text": "Gecentraliseerde controle",
+          "Correct": false
+        },
+        {
+          "Text": "Hoger energieverbruik",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welk(e) consensusmechanisme(n) worden gebruikt om transacties op de blockchain te valideren?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Bewijs van werk (PoW)",
+          "Correct": true
+        },
+        {
+          "Text": "Gedelegeerd bewijs van inzet (DPoS)",
+          "Correct": true
+        },
+        {
+          "Text": "Bewijs van autoriteit (PoA)",
+          "Correct": false
+        },
+        {
+          "Text": "Bewijs van transactie (PoT)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat is de rol van een privésleutel in blockchain-beveiliging?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Transactiegegevens versleutelen",
+          "Correct": true
+        },
+        {
+          "Text": "Transactiegegevens ontsleutelen",
+          "Correct": true
+        },
+        {
+          "Text": "Het genereren van nieuwe blockchain-blokken",
+          "Correct": false
+        },
+        {
+          "Text": "Het publiekelijk identificeren van de gebruiker",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Waar verwijst de term ‘consensus’ naar in de context van blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Overeenkomst tussen netwerkknooppunten",
+          "Correct": true
+        },
+        {
+          "Text": "Gedecentraliseerd bestuur",
+          "Correct": true
+        },
+        {
+          "Text": "Unanieme besluitvorming",
+          "Correct": false
+        },
+        {
+          "Text": "Competitief mijnbouwproces",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchain-transacties zijn omkeerbaar, waardoor gebruikers transacties indien nodig ongedaan kunnen maken.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Slimme contracten in blockchain kunnen alleen eenvoudige taken uitvoeren en zijn niet in staat tot complexe bewerkingen.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Publieke sleutels in blockchain worden niet geheim gehouden en worden gedeeld tussen gebruikers.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Proof of Stake (PoS) is een consensusmechanisme waarbij deelnemers hun betrokkenheid bij het netwerk moeten tonen door complexe wiskundige problemen op te lossen.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain-technologie wordt uitsluitend gebruikt voor financiële transacties en heeft geen toepassingen buiten het domein van cryptocurrencies.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

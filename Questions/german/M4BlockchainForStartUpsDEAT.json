@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Welche Rolle spielt Dezentralisierung in der Blockchain-Technologie für Startups?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verbesserung der Sicherheit",
+          "Correct": true
+        },
+        {
+          "Text": "Reduzierung der Transaktionsgeschwindigkeit",
+          "Correct": false
+        },
+        {
+          "Text": "Zunehmende zentralisierte Kontrolle",
+          "Correct": false
+        },
+        {
+          "Text": "Minimierung der Transparenz",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Was ist der Hauptzweck der Verwendung intelligenter Verträge in der Blockchain-Technologie für Startups?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Durchsetzung rechtlicher Verträge",
+          "Correct": true
+        },
+        {
+          "Text": "Verbesserung des Datenschutzes",
+          "Correct": false
+        },
+        {
+          "Text": "Verbesserung der Netzwerksicherheit",
+          "Correct": false
+        },
+        {
+          "Text": "Optimierung der Zahlungsprozesse",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Was ist ein Schlüsselmerkmal, das eine öffentliche Blockchain von einer privaten Blockchain unterscheidet?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Offener Zugang",
+          "Correct": true
+        },
+        {
+          "Text": "Begrenzte Teilnehmerzahl",
+          "Correct": false
+        },
+        {
+          "Text": "Langsame Transaktionsgeschwindigkeit",
+          "Correct": false
+        },
+        {
+          "Text": "Zentralisierte Kontrolle",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wie trägt Blockchain zu mehr Transparenz im Geschäftsbetrieb von Startups bei?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Bereitstellung eines gemeinsamen Hauptbuchs",
+          "Correct": true
+        },
+        {
+          "Text": "Alle Daten verschlüsseln",
+          "Correct": false
+        },
+        {
+          "Text": "Anonymität zulassen",
+          "Correct": false
+        },
+        {
+          "Text": "Zentralisierung der Kontrolle",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welcher Konsensmechanismus wird üblicherweise mit Blockchain-Netzwerken in Verbindung gebracht?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Nachweis des Einsatzes (PoS)",
+          "Correct": true
+        },
+        {
+          "Text": "Autoritätsnachweis (PoA)",
+          "Correct": false
+        },
+        {
+          "Text": "Arbeitsnachweis (PoW)",
+          "Correct": false
+        },
+        {
+          "Text": "Delegierter Proof of Stake (DPoS)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche potenziellen Vorteile bietet die Implementierung der Blockchain-Technologie in einem Startup?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verbesserte Sicherheit",
+          "Correct": true
+        },
+        {
+          "Text": "Erhöhte Transparenz",
+          "Correct": true
+        },
+        {
+          "Text": "Reduzierte Betriebskosten",
+          "Correct": true
+        },
+        {
+          "Text": "Schnellere Transaktionsgeschwindigkeiten",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche Komponenten sind für eine erfolgreiche Blockchain-Implementierung in einem Startup unerlässlich? ",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Konsensmechanismus",
+          "Correct": true
+        },
+        {
+          "Text": "Intelligente Verträge",
+          "Correct": true
+        },
+        {
+          "Text": "Public-Key-Infrastruktur (PKI)",
+          "Correct": false
+        },
+        {
+          "Text": "Zentralisierte Datenbank",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wie können Startups Blockchain für das Supply Chain Management nutzen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verbesserte Rückverfolgbarkeit",
+          "Correct": true
+        },
+        {
+          "Text": "Echtzeitüberwachung",
+          "Correct": true
+        },
+        {
+          "Text": "Kostenreduzierung",
+          "Correct": true
+        },
+        {
+          "Text": "Beseitigung von Cybersicherheitsrisiken",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Vor welchen Herausforderungen können Startups bei der Einführung der Blockchain-Technologie stehen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Integrationskomplexität",
+          "Correct": true
+        },
+        {
+          "Text": "Begrenzte Skalierbarkeit",
+          "Correct": true
+        },
+        {
+          "Text": "Einhaltung gesetzlicher Vorschriften",
+          "Correct": true
+        },
+        {
+          "Text": "Erhöhte Zentralisierung",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche Branchen können am meisten von der Blockchain-Einführung in Startups profitieren?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Gesundheitspflege",
+          "Correct": true
+        },
+        {
+          "Text": "Landwirtschaft",
+          "Correct": true
+        },
+        {
+          "Text": "Unterhaltung",
+          "Correct": false
+        },
+        {
+          "Text": "Mode",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Die Blockchain-Technologie wird in erster Linie mit Kryptowährungen in Verbindung gebracht.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Intelligente Verträge in der Blockchain ermöglichen die Ausführung vordefinierter Bedingungen, ohne dass Zwischenhändler erforderlich sind.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Die Blockchain-Technologie ist unveränderlich, d. h. einmal aufgezeichnete Daten können nicht mehr verändert werden.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Öffentliche und private Schlüssel in der Blockchain werden zur Authentifizierung und Datenverschlüsselung verwendet.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain kann die Notwendigkeit einer Verifizierung durch Dritte überflüssig machen und so die Transaktionskosten für Startups senken.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    }
+  ]
+}

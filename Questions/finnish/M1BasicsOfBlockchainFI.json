@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Mikä on materiaalissa mainitun blockchain-teknologian ensisijainen etu?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Läpinäkyvyys",
+          "Correct": true
+        },
+        {
+          "Text": "Keskittäminen",
+          "Correct": false
+        },
+        {
+          "Text": "Keskusviranomaisen valvonnassa",
+          "Correct": false
+        },
+        {
+          "Text": "Hidas tapahtuman käsittely",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä seuraavista on esimerkki julkisesta lohkoketjusta?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Bitcoin",
+          "Correct": true
+        },
+        {
+          "Text": "Yksityinen klubi",
+          "Correct": false
+        },
+        {
+          "Text": "Sallittu lohkoketju",
+          "Correct": false
+        },
+        {
+          "Text": "Aidattu yhteisö",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä on konsensusmekanismien avainrooli lohkoketjuverkostossa?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Varmistaaksesi, että kaikki solmut ovat yhtä mieltä pääkirjan tilasta",
+          "Correct": true
+        },
+        {
+          "Text": "Liikenteen nopeuden lisäämiseksi",
+          "Correct": false
+        },
+        {
+          "Text": "Hallita kaikkia osallistujia",
+          "Correct": false
+        },
+        {
+          "Text": "Tapahtumatietojen piilottaminen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä on älykäs sopimus lohkoketjuteknologian yhteydessä?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Itsensä toteuttava sopimus, joka on tallennettu lohkoketjuun",
+          "Correct": true
+        },
+        {
+          "Text": "Perinteinen paperisopimus",
+          "Correct": false
+        },
+        {
+          "Text": "Oikeudellinen riitojenratkaisumekanismi",
+          "Correct": false
+        },
+        {
+          "Text": "Sopimus ilman sääntöjä",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitä toimialaa ei mainita PR2-materiaalin lohkoketjuteknologian häiritsevän?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "koulutus",
+          "Correct": true
+        },
+        {
+          "Text": "Rahoittaa",
+          "Correct": false
+        },
+        {
+          "Text": "Terveydenhuolto",
+          "Correct": false
+        },
+        {
+          "Text": "Kiinteistöt",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitkä ovat materiaalissa kuvatut blockchain-teknologian keskeiset ominaisuudet?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Läpinäkyvyys",
+          "Correct": true
+        },
+        {
+          "Text": "Muuttumattomuus",
+          "Correct": true
+        },
+        {
+          "Text": "Keskittäminen",
+          "Correct": false
+        },
+        {
+          "Text": "Tehottomuus",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitkä ovat materiaalissa mainitut pääasialliset blockchain-verkkojen tyypit?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Julkiset ja yksityiset lohkoketjut",
+          "Correct": true
+        },
+        {
+          "Text": "Sallitut ja luvattomat lohkoketjut",
+          "Correct": true
+        },
+        {
+          "Text": "Hybridilohkoketjut",
+          "Correct": true
+        },
+        {
+          "Text": "Suljetut ja avoimet lohkoketjut",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä PR2-materiaalissa mainittu lohkoketjusovellus ei sisällä pysyvän julkisen reskontin luomista maarekistereille?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Cad ketjuille",
+          "Correct": true
+        },
+        {
+          "Text": "Toimitusketjun hallinta",
+          "Correct": true
+        },
+        {
+          "Text": "Lohkojen älykkyys",
+          "Correct": true
+        },
+        {
+          "Text": "Katastraalinen älykkyys",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitkä ovat lohkoketjuteknologian mahdolliset hyödyt materiaalin mukaan?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Läpinäkyvyys",
+          "Correct": true
+        },
+        {
+          "Text": "Turvallisuus",
+          "Correct": true
+        },
+        {
+          "Text": "Skaalautuvuus",
+          "Correct": false
+        },
+        {
+          "Text": "Keskittäminen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitkä ovat lohkoketjuteknologian rajoitukset, kuten materiaalissa käsitellään?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Nopeus ja ruuhkat",
+          "Correct": true
+        },
+        {
+          "Text": "Korkeat säilytysvaatimukset",
+          "Correct": true
+        },
+        {
+          "Text": "Avoimuuden puute",
+          "Correct": false
+        },
+        {
+          "Text": "Matala turvallisuus",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Kun lohko on lisätty lohkoketjuun, sitä voidaan helposti muuttaa tai poistaa.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Luvattomissa lohkoketjuissa ei ole rajoituksia sille, kuka voi liittyä verkkoon.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Älykkäät sopimukset ovat itse toteuttavia sopimuksia, joita ei voida tallentaa lohkoketjuun.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain-teknologiaa voidaan käyttää kryptovaluuttojen, kuten Bitcoinin ja Ethereumin, luomiseen.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchainilla voidaan luoda läpinäkyviä ja turvallisia äänestysjärjestelmiä.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    }
+  ]
+}

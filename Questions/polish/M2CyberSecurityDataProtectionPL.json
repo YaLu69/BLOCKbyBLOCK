@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Która z poniższych cech nie jest wspólną cechą bezpieczeństwa blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Częste scentralizowane kopie zapasowe danych",
+          "Correct": true
+        },
+        {
+          "Text": "Kryptografia klucza publicznego",
+          "Correct": false
+        },
+        {
+          "Text": "Mechanizmy konsensusu Proof of Work lub Proof of Stake",
+          "Correct": false
+        },
+        {
+          "Text": "Niezmienne księgi transakcji",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Który algorytm konsensusu wymaga od walidatorów przechowywania i stawiania swojej kryptowaluty jako formy zachęty ekonomicznej do sprawdzania poprawności transakcji?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Dowód stawki (PoS)",
+          "Correct": true
+        },
+        {
+          "Text": "Dowód pracy (PoW)",
+          "Correct": false
+        },
+        {
+          "Text": "Delegowany dowód stawki (DPoS)",
+          "Correct": false
+        },
+        {
+          "Text": "Potwierdzenie uprawnień (PoA)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Jaka metoda jest często stosowana w technologii blockchain, aby zapewnić, że dane nie zostały naruszone podczas transakcji?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Haszowanie",
+          "Correct": true
+        },
+        {
+          "Text": "Znacznik czasowy",
+          "Correct": false
+        },
+        {
+          "Text": "Szyfrowanie asymetryczne",
+          "Correct": false
+        },
+        {
+          "Text": "Blokowanie transakcji",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Z jakiej techniki szyfrowania korzysta blockchain, aby zapewnić bezpieczeństwo danych cyfrowych?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "SHA-256 (algorytm bezpiecznego skrótu – 256 bitów)",
+          "Correct": true
+        },
+        {
+          "Text": "AES (zaawansowany standard szyfrowania)",
+          "Correct": false
+        },
+        {
+          "Text": "DES (standard szyfrowania danych)",
+          "Correct": false
+        },
+        {
+          "Text": "Republika Południowej Afryki (Rivest – Shamir – Adleman)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Która koncepcja kryptograficzna jest głównie stosowana w blockchain do łączenia bloków ze sobą, zapewniając integralność całego łańcucha?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Kryptograficzne funkcje skrótu",
+          "Correct": true
+        },
+        {
+          "Text": "Wirtualne sieci prywatne (VPN)",
+          "Correct": false
+        },
+        {
+          "Text": "Certyfikaty Secure Socket Layer (SSL).",
+          "Correct": false
+        },
+        {
+          "Text": "Szyfrowanie oparte na hasłach (PBE)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Które z poniższych są podstawowymi zasadami, które przyczyniają się do bezpieczeństwa łańcucha bloków?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Decentralizacja",
+          "Correct": true
+        },
+        {
+          "Text": "Szyfrowanie danych",
+          "Correct": true
+        },
+        {
+          "Text": "Niezmienne dzienniki transakcji",
+          "Correct": true
+        },
+        {
+          "Text": "Regularne aktualizacje haseł",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Jakie są kluczowe cechy technologii blockchain, które zapewniają jej bezpieczeństwo i wiarygodność?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Stosowanie protokołów konsensusu",
+          "Correct": true
+        },
+        {
+          "Text": "Kryptograficzne funkcje skrótu",
+          "Correct": true
+        },
+        {
+          "Text": "Technologia rozproszonej księgi głównej",
+          "Correct": true
+        },
+        {
+          "Text": "Połączenie z centralną bazą danych w celu walidacji",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Jakie techniki kryptograficzne są stosowane w blockchain, aby zapewnić bezpieczeństwo i weryfikowalność transakcji?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Kryptograficzne funkcje skrótu",
+          "Correct": true
+        },
+        {
+          "Text": "Szyfrowanie asymetryczne",
+          "Correct": true
+        },
+        {
+          "Text": "Szyfrowanie symetryczne",
+          "Correct": false
+        },
+        {
+          "Text": "Oprogramowanie antywirusowe",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Które dwa z poniższych elementów wchodzą w skład protokołów zabezpieczonego przesyłania danych w technologii blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Struktura sieci peer-to-peer (P2P).",
+          "Correct": true
+        },
+        {
+          "Text": "Podpisy cyfrowe",
+          "Correct": true
+        },
+        {
+          "Text": "Scentralizowana weryfikacja danych",
+          "Correct": false
+        },
+        {
+          "Text": "Szyfrowanie kwantowe",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Które techniki szyfrowania w technologii blockchain stanowią podstawę do stworzenia bezpiecznego i godnego zaufania środowiska?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Infrastruktura klucza publicznego (PKI) dla tożsamości cyfrowych",
+          "Correct": true
+        },
+        {
+          "Text": "Kryptografia krzywych eliptycznych (ECC) dla podpisów cyfrowych",
+          "Correct": true
+        },
+        {
+          "Text": "Szyfrowanie SSL/TLS dla przesyłanych danych",
+          "Correct": false
+        },
+        {
+          "Text": "Pobieranie danych. ",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchain jest bezpieczny, ponieważ jego struktura danych uniemożliwia jakąkolwiek zmianę danych po ich dodaniu do księgi głównej.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "W łańcuchu bloków bezpieczeństwo jest zagrożone, jeśli ponad 50% węzłów zgodzi się na zmianę transakcji, co jest znane jako atak 51%.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Transakcje Blockchain są bezpieczne, ponieważ każda transakcja jest szyfrowana i przesyłana bezpośrednio od jednej strony do drugiej, bez żadnych pośredników.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Funkcje skrótu w łańcuchu bloków są odwracalne, co pozwala uczestnikom uzyskać oryginalne dane wejściowe z wyjściowej wartości skrótu.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Szyfrowanie symetryczne jest powszechnie stosowane w łańcuchu bloków do zabezpieczania transakcji, ponieważ jest bardziej wydajne niż szyfrowanie asymetryczne.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

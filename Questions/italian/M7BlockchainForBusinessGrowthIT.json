@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "L’implementazione della tecnologia blockchain nell’area operativa comporta…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "rendere i processi più trasparenti e sicuri",
+          "Correct": true
+        },
+        {
+          "Text": "rendendo i processi più economici",
+          "Correct": false
+        },
+        {
+          "Text": "aiutare i dipendenti a lavorare meno",
+          "Correct": false
+        },
+        {
+          "Text": "migliore organizzazione",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "L’implementazione della blockchain nell’area vendite…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "consentirà miglioramenti in termini di dati utente e personalizzazione dei servizi",
+          "Correct": true
+        },
+        {
+          "Text": "non sarà importante, a causa della mancanza di investimenti in questi termini",
+          "Correct": false
+        },
+        {
+          "Text": "dovrebbe essere adattato meglio per essere utile",
+          "Correct": false
+        },
+        {
+          "Text": "ridurrà le spese",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "L’implementazione della tecnologia blockchain nella gestione consentirà miglioramenti in…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Tutte le altre opzioni sono corrette",
+          "Correct": true
+        },
+        {
+          "Text": "processo decisionale attraverso la governance aziendale",
+          "Correct": false
+        },
+        {
+          "Text": "l'inserimento di amministratori esterni",
+          "Correct": false
+        },
+        {
+          "Text": "vigilanza e controllo più efficaci",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Qual è la funzione principale dell'Area Vendite?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Partecipare a una serie di attività per promuovere l'acquisto di un prodotto da parte di un cliente",
+          "Correct": true
+        },
+        {
+          "Text": "Comprende lo sviluppo di prodotti/servizi",
+          "Correct": false
+        },
+        {
+          "Text": "Gestione del budget e delle questioni finanziarie",
+          "Correct": false
+        },
+        {
+          "Text": "Acquistare materiali dai fornitori",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "La Direzione Aziendale si occupa di…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "gestire le risorse produttive di un’organizzazione",
+          "Correct": true
+        },
+        {
+          "Text": "comprende lo sviluppo di prodotti e servizi",
+          "Correct": false
+        },
+        {
+          "Text": "raggiungere gli obiettivi commerciali",
+          "Correct": false
+        },
+        {
+          "Text": "gestire le ferie dei dipendenti",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "L’Area Operativa si occupa di…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Sviluppo di prodotti/servizi",
+          "Correct": true
+        },
+        {
+          "Text": "Produzione ed esecuzione dei progetti",
+          "Correct": true
+        },
+        {
+          "Text": "la logistica",
+          "Correct": true
+        },
+        {
+          "Text": "Nessuna delle opzioni è corretta",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "I principi della tecnologia blockchain che possono aiutare la crescita del business sono:",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Ridurre i rischi e garantire la protezione e la chiarezza dei dati",
+          "Correct": true
+        },
+        {
+          "Text": "Maggiore legittimità e trasparenza",
+          "Correct": true
+        },
+        {
+          "Text": "Semplificazione e ottimizzazione dei sistemi",
+          "Correct": true
+        },
+        {
+          "Text": "Migliorare le relazioni con i dipendenti",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "La blockchain può...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "migliorare la comunicazione e il trasferimento di documenti con clienti, fornitori e personale",
+          "Correct": true
+        },
+        {
+          "Text": "controllare e migliorare la qualità delle informazioni",
+          "Correct": true
+        },
+        {
+          "Text": "concedere il permesso di accesso",
+          "Correct": true
+        },
+        {
+          "Text": "gestire meglio il budget",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "L’implementazione della blockchain nell’area vendite lo consentirà",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "miglioramenti nell’ottenimento dei finanziamenti",
+          "Correct": true
+        },
+        {
+          "Text": "apertura agli investitori",
+          "Correct": true
+        },
+        {
+          "Text": "costituzione di garanzie e/o redditività degli investimenti",
+          "Correct": true
+        },
+        {
+          "Text": "Nessuna delle opzioni è corretta",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "La Blockchain può essere utile in...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Zona Operativa",
+          "Correct": true
+        },
+        {
+          "Text": "Area di vendita",
+          "Correct": true
+        },
+        {
+          "Text": "Area Finanza",
+          "Correct": true
+        },
+        {
+          "Text": "Area Risorse Umane",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Il sistema Blockchain può essere utilizzato nelle aree operative, commerciali e finanziarie e nella gestione aziendale.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "La blockchain può migliorare i processi di tracciabilità all’interno dell’area operativa.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "La Blockchain è una struttura tecnologica che non apporta nulla di nuovo alle vendite e al rapporto con i clienti, essendo qualcosa di puramente tecnologico.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Nell’ambito della gestione aziendale, il blockchain può aiutare a prendere decisioni perché contribuisce alla trasparenza e alla governance aziendale.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Nell'ambito della gestione aziendale, il blockchain non può aiutare a prendere decisioni perché tutto è sotto un maggiore controllo e il processo è più complicato.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

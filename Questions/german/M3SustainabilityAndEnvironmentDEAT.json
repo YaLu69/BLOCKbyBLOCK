@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Was ist im Kontext der ökologischen Nachhaltigkeit der Hauptvorteil der Verwendung von Blockchain für die Transparenz der Lieferkette?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verbesserte Rückverfolgbarkeit",
+          "Correct": true
+        },
+        {
+          "Text": "Erhöhte Deckkraft",
+          "Correct": false
+        },
+        {
+          "Text": "Erhöhte Umweltverschmutzung",
+          "Correct": false
+        },
+        {
+          "Text": "Zentralisierte Kontrolle",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche Rolle kann Blockchain bei der Förderung erneuerbarer Energiequellen spielen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Ermöglicht transparente und nachvollziehbare Energietransaktionen",
+          "Correct": true
+        },
+        {
+          "Text": "Förderung einer zentralisierten Steuerung der Energieerzeugung",
+          "Correct": false
+        },
+        {
+          "Text": "Ermöglichung des anonymen Energieverbrauchs",
+          "Correct": false
+        },
+        {
+          "Text": "Zunehmende Abhängigkeit von nicht erneuerbarer Energie",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wie trägt Blockchain zur nachhaltigen Abfallwirtschaft bei?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Dezentralisierung der Abfallmanagementkontrolle",
+          "Correct": true
+        },
+        {
+          "Text": "Förderung illegaler Dumpingaktivitäten",
+          "Correct": false
+        },
+        {
+          "Text": "Zunehmende Undurchsichtigkeit bei Abfallentsorgungsprozessen",
+          "Correct": false
+        },
+        {
+          "Text": "Förderung der Produktion von Einwegkunststoffen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welchen potenziellen Umweltvorteil bietet der Einsatz von Blockchain in der nachhaltigen Landwirtschaft?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verbesserung der Rückverfolgbarkeit von Lebensmittellieferketten",
+          "Correct": true
+        },
+        {
+          "Text": "Zentralisierung der Kontrolle des Pestizideinsatzes",
+          "Correct": false
+        },
+        {
+          "Text": "Förderung der Abholzung von Wäldern zur Ausweitung der Landwirtschaft",
+          "Correct": false
+        },
+        {
+          "Text": "Zunehmende Abhängigkeit von schädlichen landwirtschaftlichen Praktiken",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wie kann die Blockchain-Technologie zu CO2-Ausgleichsinitiativen zum Umweltschutz beitragen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Überprüfung und Aufzeichnung von Emissionsgutschriftstransaktionen",
+          "Correct": true
+        },
+        {
+          "Text": "Automatisierung von Abholzungsprozessen",
+          "Correct": false
+        },
+        {
+          "Text": "Zunehmende Luftverschmutzung",
+          "Correct": false
+        },
+        {
+          "Text": "Zentralisierung der Kontrolle über Emissionsdaten",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wie trägt die Blockchain-Technologie zu einer nachhaltigen Landwirtschaft bei?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verbesserung der Rückverfolgbarkeit von Lebensmittellieferketten",
+          "Correct": true
+        },
+        {
+          "Text": "Erleichterung der dezentralen Kontrolle über landwirtschaftliche Prozesse",
+          "Correct": true
+        },
+        {
+          "Text": "Zunehmende Abhängigkeit von schädlichen landwirtschaftlichen Praktiken",
+          "Correct": false
+        },
+        {
+          "Text": "Förderung der Entwaldung für den Ausbau der Landwirtschaft",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Auf welche Weise kann Blockchain Umweltschutzbemühungen unterstützen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Überprüfung und Aufzeichnung von Emissionsgutschriftstransaktionen",
+          "Correct": true
+        },
+        {
+          "Text": "Verbesserung der Transparenz bei der Naturschutzfinanzierung",
+          "Correct": true
+        },
+        {
+          "Text": "Automatisierung illegaler Protokollierungsprozesse",
+          "Correct": false
+        },
+        {
+          "Text": "Ermöglichen anonymer Wildtierhandelstransaktionen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wie trägt Blockchain zur nachhaltigen Abfallwirtschaft bei?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Dezentralisierung der Abfallmanagementkontrolle",
+          "Correct": true
+        },
+        {
+          "Text": "Verbesserung der Rückverfolgbarkeit der Abfallentsorgung",
+          "Correct": true
+        },
+        {
+          "Text": "Förderung illegaler Dumpingaktivitäten",
+          "Correct": false
+        },
+        {
+          "Text": "Förderung der Produktion von Einwegplastik",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wie kann die Blockchain-Technologie zu nachhaltigen Praktiken in der Abfallwirtschaft beitragen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verbesserung der Rückverfolgbarkeit der Abfallentsorgung",
+          "Correct": true
+        },
+        {
+          "Text": "Verbesserung der Recyclingprozesse",
+          "Correct": true
+        },
+        {
+          "Text": "Zunehmende Fälle illegaler Müllentsorgung",
+          "Correct": false
+        },
+        {
+          "Text": "Erleichterung des unerlaubten Abfallexports",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche potenziellen Vorteile bietet die Integration der Blockchain in die Überwachung von Umweltverträglichkeitsprüfungen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Gewährleistung der Datentransparenz",
+          "Correct": true
+        },
+        {
+          "Text": "Verbesserung der Rechenschaftspflicht bei der Berichterstattung",
+          "Correct": true
+        },
+        {
+          "Text": "Erleichterung von Greenwashing-Praktiken",
+          "Correct": false
+        },
+        {
+          "Text": "Optimierung der Genehmigungsprozesse",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Der dezentrale Charakter der Blockchain kann die Transparenz und Verantwortlichkeit bei der Berichterstattung über Umweltdaten verbessern.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Intelligente Verträge auf einer Blockchain können dabei helfen, die Ressourcenzuteilung auf nachhaltige Weise zu automatisieren und zu optimieren.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Für die zunehmende Umweltverschmutzung ist allein die Blockchain-Technologie verantwortlich.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "In einem Blockchain-Netzwerk für Umweltzwecke haben Knoten die gleiche Kontrolle über die Entscheidungsfindung.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Die Unveränderlichkeit der Blockchain stellt sicher, dass historische Umweltaufzeichnungen nicht manipuliert werden können.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    }
+  ]
+}

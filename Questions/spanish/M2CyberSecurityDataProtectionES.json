@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "¿Cuál de las siguientes no es una característica común de la seguridad blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Copias de seguridad de datos centralizadas frecuentes",
+          "Correct": true
+        },
+        {
+          "Text": "Criptografía de clave pública",
+          "Correct": false
+        },
+        {
+          "Text": "Mecanismos de consenso de Prueba de Trabajo o Prueba de Participación",
+          "Correct": false
+        },
+        {
+          "Text": "Libros de transacciones inmutables",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Qué algoritmo de consenso requiere que los validadores mantengan y apuesten su criptomoneda como una forma de incentivo económico para validar las transacciones?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Prueba de participación (PoS)",
+          "Correct": true
+        },
+        {
+          "Text": "Prueba de trabajo (PoW)",
+          "Correct": false
+        },
+        {
+          "Text": "Prueba de participación delegada (DPoS)",
+          "Correct": false
+        },
+        {
+          "Text": "Prueba de autoridad (PoA)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "En la tecnología blockchain, ¿qué método se utiliza a menudo para garantizar que los datos no hayan sido manipulados durante una transacción?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "hash",
+          "Correct": true
+        },
+        {
+          "Text": "Marcando la hora",
+          "Correct": false
+        },
+        {
+          "Text": "Cifrado asimétrico",
+          "Correct": false
+        },
+        {
+          "Text": "Bloqueo de transacciones",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Qué técnica de cifrado utiliza blockchain para garantizar la seguridad de los datos digitales?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "SHA-256 (Algoritmo Hash Seguro-256 bits)",
+          "Correct": true
+        },
+        {
+          "Text": "AES (Estándar de cifrado avanzado)",
+          "Correct": false
+        },
+        {
+          "Text": "DES (Estándar de cifrado de datos)",
+          "Correct": false
+        },
+        {
+          "Text": "RSA (Rivest-Shamir-Adleman)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Qué concepto criptográfico se utiliza principalmente en blockchain para vincular bloques entre sí, garantizando la integridad de toda la cadena?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Funciones hash criptográficas",
+          "Correct": true
+        },
+        {
+          "Text": "Redes Privadas Virtuales (VPN)",
+          "Correct": false
+        },
+        {
+          "Text": "Certificados de capa de conexión segura (SSL)",
+          "Correct": false
+        },
+        {
+          "Text": "Cifrado basado en contraseña (PBE)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cuáles de los siguientes son principios fundamentales que contribuyen a la seguridad de una cadena de bloques?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Descentralización",
+          "Correct": true
+        },
+        {
+          "Text": "Cifrado de datos",
+          "Correct": true
+        },
+        {
+          "Text": "Registros de transacciones inmutables",
+          "Correct": true
+        },
+        {
+          "Text": "Actualizaciones periódicas de contraseña",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cuáles son las características clave de la tecnología blockchain que garantizan su seguridad y confiabilidad?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Uso de protocolos de consenso.",
+          "Correct": true
+        },
+        {
+          "Text": "Funciones hash criptográficas",
+          "Correct": true
+        },
+        {
+          "Text": "Tecnología de contabilidad distribuida",
+          "Correct": true
+        },
+        {
+          "Text": "Conexión a una base de datos central para su validación.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Qué técnicas criptográficas se utilizan en blockchain para garantizar que las transacciones sean seguras y verificables?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Funciones hash criptográficas",
+          "Correct": true
+        },
+        {
+          "Text": "Cifrado asimétrico",
+          "Correct": true
+        },
+        {
+          "Text": "Cifrado simétrico",
+          "Correct": false
+        },
+        {
+          "Text": "Software antivirus",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cuáles de los siguientes elementos forman parte de protocolos de transferencia segura de datos en la tecnología blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Estructura de red de igual a igual (P2P)",
+          "Correct": true
+        },
+        {
+          "Text": "Firmas digitales",
+          "Correct": true
+        },
+        {
+          "Text": "Validación de datos centralizada",
+          "Correct": false
+        },
+        {
+          "Text": "Cifrado cuántico",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "En la tecnología blockchain, ¿qué técnicas de cifrado proporcionan la base para crear un entorno seguro y confiable?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Infraestructura de clave pública (PKI) para identidades digitales",
+          "Correct": true
+        },
+        {
+          "Text": "Criptografía de curva elíptica (ECC) para firmas digitales",
+          "Correct": true
+        },
+        {
+          "Text": "Cifrado SSL/TLS para datos en tránsito",
+          "Correct": false
+        },
+        {
+          "Text": "Recuperando datos. ",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Una cadena de bloques es segura porque su estructura de datos evita cualquier alteración de los datos una vez que se han agregado al libro mayor.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "En una cadena de bloques, la seguridad se ve comprometida si más del 50% de los nodos acuerdan alterar una transacción en lo que se conoce como un ataque del 51%.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Las transacciones blockchain son seguras porque cada transacción está cifrada y se envía directamente de una parte a otra sin intermediarios.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Las funciones hash en blockchain son reversibles, lo que permite a los participantes derivar la entrada original del valor hash de salida.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "El cifrado simétrico se usa comúnmente en blockchain para proteger transacciones porque es más eficiente que el cifrado asimétrico.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

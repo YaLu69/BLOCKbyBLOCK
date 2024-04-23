@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Cos'è un'innovazione?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Risultati di idee implementate in nuovi prodotti, servizi, processi, ecc",
+          "Correct": true
+        },
+        {
+          "Text": "Misure per seguire le normative e le leggi nazionali",
+          "Correct": false
+        },
+        {
+          "Text": "Concentrarsi sulle strutture e sui processi esistenti",
+          "Correct": false
+        },
+        {
+          "Text": "Misure per massimizzare il successo finanziario di un'organizzazione",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Qual è il focus delle innovazioni di prodotto?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Sviluppo e implementazione di nuovi prodotti",
+          "Correct": true
+        },
+        {
+          "Text": "Progettare nuovi processi",
+          "Correct": false
+        },
+        {
+          "Text": "Supportare i dipendenti affinché diventino più produttivi",
+          "Correct": false
+        },
+        {
+          "Text": "Sostenere gli aspetti sociali in un'organizzazione",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Qual è il focus della collaborazione tra PepsiCo e la startup Security Matters?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Sviluppo di soluzioni basate sulla BCT per identificare, differenziare e imballare i rifiuti",
+          "Correct": true
+        },
+        {
+          "Text": "Utilizzo di BCT per la creazione di negozi virtuali",
+          "Correct": false
+        },
+        {
+          "Text": "Offerta di token virtuali per negozi online",
+          "Correct": false
+        },
+        {
+          "Text": "Sviluppare un sistema basato su giochi per motivare gli acquirenti",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Il vantaggio più importante dell’utilizzo della BCT nei processi di innovazione aperta è la domanda:",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Chi dovrebbe ricevere cosa in cambio del proprio contributo?",
+          "Correct": true
+        },
+        {
+          "Text": "Quanto dovrei investire?",
+          "Correct": false
+        },
+        {
+          "Text": "Come posso raggiungere quanti più clienti possibile?",
+          "Correct": false
+        },
+        {
+          "Text": "Dove posso trovare ulteriori strutture di finanziamento?",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "La BCT in relazione alle strategie di innovazione può essere descritta come...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "L'invenzione più importante dopo Internet",
+          "Correct": true
+        },
+        {
+          "Text": "Più ostacoli burocratici per le aziende",
+          "Correct": false
+        },
+        {
+          "Text": "Maggiore complessità nella produzione",
+          "Correct": false
+        },
+        {
+          "Text": "Un insieme di strumenti incentrati sugli obiettivi di sviluppo sostenibile delle Nazioni Unite ",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Quali dei seguenti punti sono tipi di innovazioni?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Innovazione di processo",
+          "Correct": true
+        },
+        {
+          "Text": "Innovazione del mercato",
+          "Correct": true
+        },
+        {
+          "Text": "Innovazione di prodotto",
+          "Correct": true
+        },
+        {
+          "Text": "Innovazione finanziaria",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Quali sono le fasi di un processo di innovazione?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Gestione dell'innovazione",
+          "Correct": true
+        },
+        {
+          "Text": "Implementazione",
+          "Correct": true
+        },
+        {
+          "Text": "Ingresso",
+          "Correct": true
+        },
+        {
+          "Text": "Consulenza legale",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "In quale dei seguenti ambiti la BCT viene utilizzata nei processi di innovazione aperta?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "DPI",
+          "Correct": true
+        },
+        {
+          "Text": "Cooperazione e comunicazione",
+          "Correct": true
+        },
+        {
+          "Text": "Appropriazione di valore ",
+          "Correct": true
+        },
+        {
+          "Text": "Monitoraggio tecnico",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Le innovazioni strutturali si concentrano su...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Nuovi modelli di lavoro",
+          "Correct": true
+        },
+        {
+          "Text": "Sviluppo delle risorse umane",
+          "Correct": true
+        },
+        {
+          "Text": "la logistica",
+          "Correct": true
+        },
+        {
+          "Text": "Creazione di servizi",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "I campi della gestione dell’innovazione sono...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Individuazione e valutazione dei processi innovativi interni ed esterni all'azienda",
+          "Correct": true
+        },
+        {
+          "Text": "Pianificare, guidare, implementare e valutare tutte le attività innovative in un'azienda",
+          "Correct": true
+        },
+        {
+          "Text": "Definizione di una data per l'immissione sul mercato delle innovazioni",
+          "Correct": true
+        },
+        {
+          "Text": "Valutazione delle risorse finanziarie e umane",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Le idee sono il risultato di fonti interne ed esterne.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "BCT supporta i processi di innovazione a diversi livelli.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "McDonald's ha evitato di utilizzare BCT a causa di problemi legali.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "I sistemi BCT causano problemi legati ai diritti di proprietà intellettuale.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Le innovazioni di processo si concentrano sull’apertura di nuovi mercati.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Welches der folgenden Merkmale ist kein gemeinsames Merkmal der Blockchain-Sicherheit?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Regelmäßige zentrale Datensicherungen",
+          "Correct": true
+        },
+        {
+          "Text": "Kryptographie mit öffentlichem Schlüssel",
+          "Correct": false
+        },
+        {
+          "Text": "Proof-of-Work- oder Proof-of-Stake-Konsensmechanismen",
+          "Correct": false
+        },
+        {
+          "Text": "Unveränderliche Transaktionsbücher",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welcher Konsensalgorithmus verlangt von Validatoren, dass sie ihre Kryptowährung halten und einsetzen, um einen wirtschaftlichen Anreiz für die Validierung von Transaktionen zu schaffen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Nachweis des Einsatzes (PoS)",
+          "Correct": true
+        },
+        {
+          "Text": "Arbeitsnachweis (PoW)",
+          "Correct": false
+        },
+        {
+          "Text": "Delegierter Proof of Stake (DPoS)",
+          "Correct": false
+        },
+        {
+          "Text": "Autoritätsnachweis (PoA)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche Methode wird in der Blockchain-Technologie häufig verwendet, um sicherzustellen, dass Daten während einer Transaktion nicht manipuliert wurden?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Hashing",
+          "Correct": true
+        },
+        {
+          "Text": "Zeitstempeln",
+          "Correct": false
+        },
+        {
+          "Text": "Asymmetrische Verschlüsselung",
+          "Correct": false
+        },
+        {
+          "Text": "Transaktionssperre",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche Verschlüsselungstechnik nutzt die Blockchain, um die Sicherheit digitaler Daten zu gewährleisten?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "SHA-256 (Sicherer Hash-Algorithmus – 256 Bit)",
+          "Correct": true
+        },
+        {
+          "Text": "AES (Advanced Encryption Standard)",
+          "Correct": false
+        },
+        {
+          "Text": "DES (Datenverschlüsselungsstandard)",
+          "Correct": false
+        },
+        {
+          "Text": "RSA (Rivest–Shamir–Adleman)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welches kryptografische Konzept wird in der Blockchain hauptsächlich verwendet, um Blöcke miteinander zu verknüpfen und so die Integrität der gesamten Kette sicherzustellen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Kryptografische Hash-Funktionen",
+          "Correct": true
+        },
+        {
+          "Text": "Virtuelle private Netzwerke (VPN)",
+          "Correct": false
+        },
+        {
+          "Text": "Secure Socket Layer (SSL)-Zertifikate",
+          "Correct": false
+        },
+        {
+          "Text": "Passwortbasierte Verschlüsselung (PBE)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche der folgenden Grundprinzipien tragen zur Sicherheit einer Blockchain bei?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Dezentralisierung",
+          "Correct": true
+        },
+        {
+          "Text": "Datenverschlüsselung",
+          "Correct": true
+        },
+        {
+          "Text": "Unveränderliche Transaktionsprotokolle",
+          "Correct": true
+        },
+        {
+          "Text": "Regelmäßige Passwortaktualisierungen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Was sind die Hauptmerkmale der Blockchain-Technologie, die ihre Sicherheit und Vertrauenswürdigkeit gewährleisten?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verwendung von Konsensprotokollen",
+          "Correct": true
+        },
+        {
+          "Text": "Kryptografische Hash-Funktionen",
+          "Correct": true
+        },
+        {
+          "Text": "Distributed-Ledger-Technologie",
+          "Correct": true
+        },
+        {
+          "Text": "Anbindung an eine zentrale Datenbank zur Validierung",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche kryptografischen Techniken werden in der Blockchain eingesetzt, um sicherzustellen, dass Transaktionen sicher und überprüfbar sind?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Kryptografische Hash-Funktionen",
+          "Correct": true
+        },
+        {
+          "Text": "Asymmetrische Verschlüsselung",
+          "Correct": true
+        },
+        {
+          "Text": "Symmetrische Verschlüsselung",
+          "Correct": false
+        },
+        {
+          "Text": "Antiviren Software",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche zwei der folgenden Elemente sind Bestandteile gesicherter Datenübertragungsprotokolle in der Blockchain-Technologie?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Peer-to-Peer-Netzwerkstruktur (P2P).",
+          "Correct": true
+        },
+        {
+          "Text": "Digitale Signaturen",
+          "Correct": true
+        },
+        {
+          "Text": "Zentralisierte Datenvalidierung",
+          "Correct": false
+        },
+        {
+          "Text": "Quantenverschlüsselung",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche Verschlüsselungstechniken bilden in der Blockchain-Technologie die Grundlage für die Schaffung einer sicheren und vertrauenswürdigen Umgebung?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Public-Key-Infrastruktur (PKI) für digitale Identitäten",
+          "Correct": true
+        },
+        {
+          "Text": "Elliptische Kurvenkryptographie (ECC) für digitale Signaturen",
+          "Correct": true
+        },
+        {
+          "Text": "SSL/TLS-Verschlüsselung für Daten während der Übertragung",
+          "Correct": false
+        },
+        {
+          "Text": "Daten abrufen. ",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Eine Blockchain ist sicher, da ihre Datenstruktur jegliche Änderungen an den Daten verhindert, sobald sie dem Hauptbuch hinzugefügt wurden.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "In einer Blockchain ist die Sicherheit gefährdet, wenn mehr als 50 % der Knoten einer Änderung einer Transaktion zustimmen, was als 51 %-Angriff bezeichnet wird.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain-Transaktionen sind sicher, da jede Transaktion verschlüsselt und ohne Zwischenhändler direkt von einer Partei zur anderen gesendet wird.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Hash-Funktionen in der Blockchain sind umkehrbar, sodass Teilnehmer die ursprüngliche Eingabe aus dem Ausgabe-Hash-Wert ableiten können.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Symmetrische Verschlüsselung wird in der Blockchain häufig zur Sicherung von Transaktionen verwendet, da sie effizienter ist als asymmetrische Verschlüsselung.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "La implementación de la tecnología blockchain en el área de operaciones implica…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "hacer que los procesos sean más transparentes y seguros",
+          "Correct": true
+        },
+        {
+          "Text": "abaratar los procesos",
+          "Correct": false
+        },
+        {
+          "Text": "ayudar a los empleados a trabajar menos",
+          "Correct": false
+        },
+        {
+          "Text": "mejor organización",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "La implementación de blockchain en el área de ventas…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "permitirá mejoras en cuanto a datos de los usuarios y personalización de los servicios",
+          "Correct": true
+        },
+        {
+          "Text": "No será importante, debido a la falta de inversión en estos términos.",
+          "Correct": false
+        },
+        {
+          "Text": "debería adaptarse mejor para que sea útil",
+          "Correct": false
+        },
+        {
+          "Text": "reducirá los gastos",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "La implementación de la tecnología blockchain en la gestión permitirá mejoras en…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Todas las demás opciones son correctas.",
+          "Correct": true
+        },
+        {
+          "Text": "toma de decisiones a través del gobierno corporativo",
+          "Correct": false
+        },
+        {
+          "Text": "la incorporación de consejeros externos",
+          "Correct": false
+        },
+        {
+          "Text": "supervisión y control más eficaces",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cuál es la función principal del Área de Ventas?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Participar en una variedad de actividades para promover la compra de un producto por parte de un cliente.",
+          "Correct": true
+        },
+        {
+          "Text": "Abarcando el desarrollo de productos/servicios.",
+          "Correct": false
+        },
+        {
+          "Text": "Gestionar el presupuesto y las cuestiones financieras.",
+          "Correct": false
+        },
+        {
+          "Text": "Compra de materiales a proveedores.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "La Gerencia Comercial es la encargada de…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "gestionar los recursos productivos de una organización",
+          "Correct": true
+        },
+        {
+          "Text": "abarca el desarrollo de productos y servicios",
+          "Correct": false
+        },
+        {
+          "Text": "alcanzar los objetivos comerciales",
+          "Correct": false
+        },
+        {
+          "Text": "gestionar las vacaciones de los empleados",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "El Área de Operaciones está a cargo de…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Desarrollo de productos/servicios",
+          "Correct": true
+        },
+        {
+          "Text": "Producción y ejecución de los proyectos.",
+          "Correct": true
+        },
+        {
+          "Text": "Logística",
+          "Correct": true
+        },
+        {
+          "Text": "Ninguna de las opciones es correcta",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Los principios de la tecnología blockchain que pueden ayudar al crecimiento empresarial son:",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Reducir los riesgos y garantizar la protección y claridad de los datos",
+          "Correct": true
+        },
+        {
+          "Text": "Mayor legitimidad y transparencia",
+          "Correct": true
+        },
+        {
+          "Text": "Simplificación y optimización de sistemas.",
+          "Correct": true
+        },
+        {
+          "Text": "Mejorar las relaciones con los empleados",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "La cadena de bloques puede...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "mejorar la comunicación y la transferencia de documentos con clientes, proveedores y personal",
+          "Correct": true
+        },
+        {
+          "Text": "controlar y mejorar la calidad de la información",
+          "Correct": true
+        },
+        {
+          "Text": "otorgar permiso para acceder",
+          "Correct": true
+        },
+        {
+          "Text": "gestionar mejor el presupuesto",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "La implementación de blockchain en el área de ventas permitirá",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "mejoras en la obtención de financiación",
+          "Correct": true
+        },
+        {
+          "Text": "apertura a los inversores",
+          "Correct": true
+        },
+        {
+          "Text": "establecimiento de garantías y/o rentabilidad de las inversiones",
+          "Correct": true
+        },
+        {
+          "Text": "Ninguna de las opciones es correcta",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchain puede ser útil en…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Área de Operaciones",
+          "Correct": true
+        },
+        {
+          "Text": "Area de ventas",
+          "Correct": true
+        },
+        {
+          "Text": "Área de Finanzas",
+          "Correct": true
+        },
+        {
+          "Text": "Área de Recursos Humanos",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "El sistema Blockchain puede ser utilizado en las áreas de operaciones, ventas y finanzas, y en la gestión empresarial.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain puede mejorar los procesos de trazabilidad dentro del área de operaciones.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain es una estructura tecnológica que no aporta nada nuevo a las ventas ni a la relación con los clientes, ya que es algo puramente tecnológico.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Dentro del ámbito de la Gestión Empresarial, blockchaing puede ayudar a la toma de decisiones porque contribuye a la transparencia y el gobierno corporativo.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Dentro del área de Gestión Empresarial, el blockchaing no puede ayudar a tomar decisiones porque todo está bajo un mayor control y el proceso es más complicado.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

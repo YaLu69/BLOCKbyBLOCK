@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Lohkoketjuteknologian käyttöönotto toiminta-alueella edellyttää…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "tehdä prosesseista avoimempia ja turvallisempia",
+          "Correct": true
+        },
+        {
+          "Text": "tehdä prosesseista halvempia",
+          "Correct": false
+        },
+        {
+          "Text": "auttaa työntekijöitä työskentelemään vähemmän",
+          "Correct": false
+        },
+        {
+          "Text": "parempi organisaatio",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchainin käyttöönotto myyntialueella…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "mahdollistaa parannuksia käyttäjätietojen ja palvelujen personoinnin suhteen",
+          "Correct": true
+        },
+        {
+          "Text": "ei ole tärkeä investointien puutteen vuoksi",
+          "Correct": false
+        },
+        {
+          "Text": "olisi mukautettava paremmin hyödylliseksi",
+          "Correct": false
+        },
+        {
+          "Text": "vähentää kuluja",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Lohkoketjuteknologian käyttöönotto hallinnassa mahdollistaa parannuksia…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Kaikki muut vaihtoehdot ovat oikein",
+          "Correct": true
+        },
+        {
+          "Text": "päätöksenteko yrityksen hallinnon kautta",
+          "Correct": false
+        },
+        {
+          "Text": "ulkopuolisten johtajien perustaminen",
+          "Correct": false
+        },
+        {
+          "Text": "tehokkaampi valvonta ja valvonta",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä on myyntialueen päätehtävä?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Osallistuminen erilaisiin aktiviteetteihin edistääkseen asiakkaan tuotteen ostamista",
+          "Correct": true
+        },
+        {
+          "Text": "Sisältää tuotteiden/palvelujen kehittämisen",
+          "Correct": false
+        },
+        {
+          "Text": "Budjetin ja talousasioiden hoitaminen",
+          "Correct": false
+        },
+        {
+          "Text": "Materiaalien ostaminen toimittajilta",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Liiketoiminnan johto vastaa…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "hallita organisaation tuotantoresursseja",
+          "Correct": true
+        },
+        {
+          "Text": "kattaa tuotteiden ja palveluiden kehittämisen",
+          "Correct": false
+        },
+        {
+          "Text": "saavuttaa kaupalliset tavoitteet",
+          "Correct": false
+        },
+        {
+          "Text": "hoitaa työntekijöiden lomia",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Toiminta-alue vastaa…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Tuotteiden/palveluiden kehittäminen",
+          "Correct": true
+        },
+        {
+          "Text": "Projektien tuotanto ja toteutus",
+          "Correct": true
+        },
+        {
+          "Text": "Logistiikka",
+          "Correct": true
+        },
+        {
+          "Text": "Mikään vaihtoehdoista ei ole oikea",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchain-teknologian periaatteet, jotka voivat auttaa liiketoiminnan kasvua ovat:",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Riskien vähentäminen ja tietosuojan ja selkeyden varmistaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Parempi legitiimiys ja avoimuus",
+          "Correct": true
+        },
+        {
+          "Text": "Järjestelmien yksinkertaistaminen ja optimointi",
+          "Correct": true
+        },
+        {
+          "Text": "Työntekijäsuhteiden parantaminen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchain voi…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "parantaa viestintää ja asiakirjojen siirtoa asiakkaiden, toimittajien ja henkilökunnan kanssa",
+          "Correct": true
+        },
+        {
+          "Text": "valvoa ja parantaa tiedon laatua",
+          "Correct": true
+        },
+        {
+          "Text": "myönnä käyttöoikeus",
+          "Correct": true
+        },
+        {
+          "Text": "hallita budjettia paremmin",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchainin käyttöönotto myyntialueella mahdollistaa",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "parannuksia rahoituksen saamisessa",
+          "Correct": true
+        },
+        {
+          "Text": "avoimuus sijoittajille",
+          "Correct": true
+        },
+        {
+          "Text": "takuiden ja/tai investointien kannattavuuden vahvistaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Mikään vaihtoehdoista ei ole oikea",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchain voi olla hyödyllinen…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Toiminta-alue",
+          "Correct": true
+        },
+        {
+          "Text": "Myyntialue",
+          "Correct": true
+        },
+        {
+          "Text": "Rahoitusalue",
+          "Correct": true
+        },
+        {
+          "Text": "Henkilöstöalue",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchain-järjestelmää voidaan käyttää operatiivisessa, myynti- ja taloushallinnossa sekä liikkeenjohdossa.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Lohkoketju voi parantaa jäljitettävyysprosesseja toiminta-alueella.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain on teknologinen rakenne, joka ei tuo mitään uutta myyntiin ja asiakassuhteeseen, koska se on puhtaasti teknologinen.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Liiketoiminnan hallinnan alueella blockchaing voi auttaa tekemään päätöksiä, koska se edistää läpinäkyvyyttä ja yritysten hallintoa.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Liiketoiminnanhallinnan alueella blockchaing ei voi auttaa tekemään päätöksiä, koska kaikki on korkeammalla hallinnassa ja prosessi on monimutkaisempi.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "¿Cuál es la principal ventaja de la tecnología blockchain mencionada en el material?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Transparencia",
+          "Correct": true
+        },
+        {
+          "Text": "Centralización",
+          "Correct": false
+        },
+        {
+          "Text": "Controlado por una autoridad central",
+          "Correct": false
+        },
+        {
+          "Text": "Procesamiento de transacciones lento",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cuál de los siguientes es un ejemplo de una cadena de bloques pública?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "bitcóin",
+          "Correct": true
+        },
+        {
+          "Text": "un club privado",
+          "Correct": false
+        },
+        {
+          "Text": "Una cadena de bloques autorizada",
+          "Correct": false
+        },
+        {
+          "Text": "Una comunidad cerrada",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cuál es el papel clave de los mecanismos de consenso en una red blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Para garantizar que todos los nodos estén de acuerdo con el estado del libro mayor",
+          "Correct": true
+        },
+        {
+          "Text": "Para aumentar la velocidad de las transacciones",
+          "Correct": false
+        },
+        {
+          "Text": "Para controlar a todos los participantes.",
+          "Correct": false
+        },
+        {
+          "Text": "Para ocultar los detalles de la transacción",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Qué es un contrato inteligente en el contexto de la tecnología blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Un contrato autoejecutable almacenado en blockchain",
+          "Correct": true
+        },
+        {
+          "Text": "Un contrato en papel tradicional",
+          "Correct": false
+        },
+        {
+          "Text": "Un mecanismo legal de resolución de disputas",
+          "Correct": false
+        },
+        {
+          "Text": "Un contrato sin reglas",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Qué industria no se menciona como afectada por la tecnología blockchain en el material PR2?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Educación",
+          "Correct": true
+        },
+        {
+          "Text": "Finanzas",
+          "Correct": false
+        },
+        {
+          "Text": "Cuidado de la salud",
+          "Correct": false
+        },
+        {
+          "Text": "Bienes raíces",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cuáles son las características clave de la tecnología blockchain, como se describe en el material?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Transparencia",
+          "Correct": true
+        },
+        {
+          "Text": "Inmutabilidad",
+          "Correct": true
+        },
+        {
+          "Text": "Centralización",
+          "Correct": false
+        },
+        {
+          "Text": "Ineficacia",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cuáles son los principales tipos de redes blockchain mencionadas en el material?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Cadenas de bloques públicas y privadas",
+          "Correct": true
+        },
+        {
+          "Text": "Blockchains con y sin permiso",
+          "Correct": true
+        },
+        {
+          "Text": "Cadenas de bloques híbridas",
+          "Correct": true
+        },
+        {
+          "Text": "Blockchains cerrados y abiertos",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Qué aplicación de blockchain mencionada en el material PR2 no implica la creación de un libro de contabilidad público permanente para los registros de tierras?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "cad para cadenas",
+          "Correct": true
+        },
+        {
+          "Text": "Gestión de la cadena de suministro",
+          "Correct": true
+        },
+        {
+          "Text": "Inteligencia de bloques",
+          "Correct": true
+        },
+        {
+          "Text": "Inteligencia catastral",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cuáles son los beneficios potenciales de la tecnología blockchain, según el material?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Transparencia",
+          "Correct": true
+        },
+        {
+          "Text": "Seguridad",
+          "Correct": true
+        },
+        {
+          "Text": "Escalabilidad",
+          "Correct": false
+        },
+        {
+          "Text": "Centralización",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cuáles son las limitaciones de la tecnología blockchain, como se analiza en el material?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Velocidad y congestión",
+          "Correct": true
+        },
+        {
+          "Text": "Altos requisitos de almacenamiento",
+          "Correct": true
+        },
+        {
+          "Text": "Falta de transparencia",
+          "Correct": false
+        },
+        {
+          "Text": "Baja seguridad",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Una vez que se agrega un bloque a la cadena de bloques, se puede modificar o eliminar fácilmente.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "En las cadenas de bloques sin permiso, no existen restricciones sobre quién puede unirse a la red.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Los contratos inteligentes son contratos autoejecutables que no se pueden almacenar en la cadena de bloques.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "La tecnología Blockchain se puede utilizar en la creación de criptomonedas como Bitcoin y Ethereum.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain se puede utilizar para crear sistemas de votación transparentes y seguros.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    }
+  ]
+}

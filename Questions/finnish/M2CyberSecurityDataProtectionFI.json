@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Mikä seuraavista ei ole lohkoketjun suojauksen yhteinen piirre?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Toistuva keskitetty tietojen varmuuskopiointi",
+          "Correct": true
+        },
+        {
+          "Text": "Julkisen avaimen salaus",
+          "Correct": false
+        },
+        {
+          "Text": "Proof of Work tai Proof of Stake -konsensusmekanismit",
+          "Correct": false
+        },
+        {
+          "Text": "Muuttumattomat tapahtumakirjat",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä konsensusalgoritmi edellyttää, että validaattorit pitävät hallussaan ja panostavat kryptovaluuttaansa taloudellisena kannustimena transaktioiden validoimiseen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Todistus panoksesta (PoS)",
+          "Correct": true
+        },
+        {
+          "Text": "Todistus työstä (PoW)",
+          "Correct": false
+        },
+        {
+          "Text": "Delegoitu panostodistus (DPoS)",
+          "Correct": false
+        },
+        {
+          "Text": "Valtuutustodistus (PoA)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitä menetelmää lohkoketjuteknologiassa käytetään usein varmistamaan, ettei dataa ole peukaloitu tapahtuman aikana?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Hashing",
+          "Correct": true
+        },
+        {
+          "Text": "Aikaleimaus",
+          "Correct": false
+        },
+        {
+          "Text": "Epäsymmetrinen salaus",
+          "Correct": false
+        },
+        {
+          "Text": "Tapahtuman lukitus",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitä salaustekniikkaa blockchain käyttää varmistaakseen digitaalisen tiedon turvallisuuden?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "SHA-256 (Secure Hash Algorithm - 256 bits)",
+          "Correct": true
+        },
+        {
+          "Text": "AES (Advanced Encryption Standard)",
+          "Correct": false
+        },
+        {
+          "Text": "DES (Data Encryption Standard)",
+          "Correct": false
+        },
+        {
+          "Text": "RSA (Rivest-Shamir-Adleman)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitä kryptografista käsitettä käytetään ensisijaisesti lohkoketjussa yhdistämään lohkoja toisiinsa, mikä varmistaa koko ketjun eheyden?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Kryptografiset hajautustoiminnot",
+          "Correct": true
+        },
+        {
+          "Text": "Virtuaaliset yksityisverkot (VPN)",
+          "Correct": false
+        },
+        {
+          "Text": "Secure Socket Layer (SSL) -sertifikaatit",
+          "Correct": false
+        },
+        {
+          "Text": "Salasanapohjainen salaus (PBE)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitkä seuraavista ovat perusperiaatteita, jotka edistävät lohkoketjun turvallisuutta?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Hajauttaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Tiedonsalaus",
+          "Correct": true
+        },
+        {
+          "Text": "Muuttumattomat tapahtumalokit",
+          "Correct": true
+        },
+        {
+          "Text": "Säännölliset salasanapäivitykset",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitkä ovat lohkoketjuteknologian tärkeimmät ominaisuudet, jotka varmistavat sen turvallisuuden ja luotettavuuden?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Konsensusprotokollien käyttö",
+          "Correct": true
+        },
+        {
+          "Text": "Kryptografiset hash-funktiot",
+          "Correct": true
+        },
+        {
+          "Text": "Hajautettu pääkirjatekniikka",
+          "Correct": true
+        },
+        {
+          "Text": "Yhteys keskustietokantaan validointia varten",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitä salaustekniikoita lohkoketjussa käytetään varmistamaan, että tapahtumat ovat turvallisia ja todennettavissa?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Kryptografiset hash-funktiot",
+          "Correct": true
+        },
+        {
+          "Text": "Epäsymmetrinen salaus",
+          "Correct": true
+        },
+        {
+          "Text": "Symmetrinen salaus",
+          "Correct": false
+        },
+        {
+          "Text": "Viruksentorjuntaohjelma",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitkä kaksi seuraavista elementeistä ovat osa suojattuja tiedonsiirtoprotokollia lohkoketjuteknologiassa?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "P2P (Peer-to-Peer) -verkkorakenne",
+          "Correct": true
+        },
+        {
+          "Text": "Digitaaliset allekirjoitukset",
+          "Correct": true
+        },
+        {
+          "Text": "Keskitetty tietojen validointi",
+          "Correct": false
+        },
+        {
+          "Text": "Kvanttisalaus",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitkä salaustekniikat muodostavat lohkoketjuteknologiassa perustan turvallisen ja luotettavan ympäristön luomiselle?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Julkisen avaimen infrastruktuuri (PKI) digitaalisille identiteeteille",
+          "Correct": true
+        },
+        {
+          "Text": "Elliptisen käyrän salaus (ECC) digitaalisille allekirjoituksille",
+          "Correct": true
+        },
+        {
+          "Text": "SSL/TLS-salaus siirrettävälle tiedolle",
+          "Correct": false
+        },
+        {
+          "Text": "Haetaan tietoja. ",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Lohkoketju on turvallinen, koska sen tietorakenne estää tietojen muuttamisen sen jälkeen, kun se on lisätty reskontraan.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Lohkoketjussa turvallisuus vaarantuu, jos yli 50 % solmuista suostuu muuttamaan tapahtumaa niin sanotussa 51 %:n hyökkäyksessä.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain-tapahtumat ovat turvallisia, koska jokainen tapahtuma on salattu ja lähetetään suoraan osapuolelta toiselle ilman välittäjiä.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Lohkoketjun hajautusfunktiot ovat palautuvia, jolloin osallistujat voivat johtaa alkuperäisen syötteen tulostetusta hash-arvosta.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Symmetrintä salausta käytetään yleisesti lohkoketjussa tapahtumien turvaamiseen, koska se on tehokkaampaa kuin epäsymmetrinen salaus.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

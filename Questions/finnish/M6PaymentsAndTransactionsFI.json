@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Mitkä ovat blockchain-pohjaisten maksujen tärkeimmät edut?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Kaikki muut vastaukset",
+          "Correct": true
+        },
+        {
+          "Text": "Nopeus",
+          "Correct": false
+        },
+        {
+          "Text": "Matala energia",
+          "Correct": false
+        },
+        {
+          "Text": "Turvallisuus",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä seuraavista ei ole suuri haaste blockchain-maksuissa?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Käyttäjän anonymiteetti",
+          "Correct": true
+        },
+        {
+          "Text": "Monimutkaiset tapahtumaprosessit",
+          "Correct": false
+        },
+        {
+          "Text": "Korkeat transaktiokustannukset",
+          "Correct": false
+        },
+        {
+          "Text": "Monimutkaiset skaalautuvuusongelmat",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitä termi \"älykkäät sopimukset\" tarkoittaa blockchain-maksujen yhteydessä?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Automaattiset ja itsetoimivat sopimukset",
+          "Correct": true
+        },
+        {
+          "Text": "Maksut, jotka ovat laittomia",
+          "Correct": false
+        },
+        {
+          "Text": "Tapahtumat, jotka ovat vain kertaluonteisia",
+          "Correct": false
+        },
+        {
+          "Text": "Maksut edellyttävät kahta älypuhelinta",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitä seuraavista kryptovaluutoista käytetään yleisimmin lohkoketjun tapahtumiin?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Bitcoin",
+          "Correct": true
+        },
+        {
+          "Text": "Ethereum",
+          "Correct": false
+        },
+        {
+          "Text": "Ripple",
+          "Correct": false
+        },
+        {
+          "Text": "Litecoin",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä on lohkoketjuteknologian pääsovellus rahoitustapahtumissa?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Välittäjävapaiden maksujen suorittaminen",
+          "Correct": true
+        },
+        {
+          "Text": "Henkilötietojen suojaaminen",
+          "Correct": false
+        },
+        {
+          "Text": "Suurten tietomäärien tallentaminen pilveen",
+          "Correct": false
+        },
+        {
+          "Text": "Varmuuskopioiden luominen tapahtumista",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä on julkisen avaimen ensisijainen tarkoitus lohkoketjutransaktioissa?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Tapahtumatietojen salaamiseen",
+          "Correct": true
+        },
+        {
+          "Text": "Tunnistaa lähettäjän ja vastaanottajan",
+          "Correct": true
+        },
+        {
+          "Text": "Tapahtumatietojen salauksen purkamiseen",
+          "Correct": false
+        },
+        {
+          "Text": "Uuden kryptovaluutan louhimiseen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitä hyötyä hajautetun pääkirjan käytöstä on lohkoketjussa?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Parannettu skaalautuvuus",
+          "Correct": true
+        },
+        {
+          "Text": "Nopeampi kaupankäyntinopeus",
+          "Correct": true
+        },
+        {
+          "Text": "Keskitetty ohjaus",
+          "Correct": false
+        },
+        {
+          "Text": "Suurempi energiankulutus",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitä konsensusmekanismeja käytetään lohkoketjun tapahtumien validointiin?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Todistus työstä (PoW)",
+          "Correct": true
+        },
+        {
+          "Text": "Delegoitu panostodistus (DPoS)",
+          "Correct": true
+        },
+        {
+          "Text": "Valtuutustodistus (PoA)",
+          "Correct": false
+        },
+        {
+          "Text": "Todistus tapahtumasta (POT)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mikä on yksityisen avaimen rooli lohkoketjun suojauksessa?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Tapahtumatietojen salaus",
+          "Correct": true
+        },
+        {
+          "Text": "Tapahtumatietojen salauksen purku",
+          "Correct": true
+        },
+        {
+          "Text": "Uusien lohkoketjulohkojen luominen",
+          "Correct": false
+        },
+        {
+          "Text": "Käyttäjän tunnistaminen julkisesti",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Mitä termi \"konsensus\" tarkoittaa lohkoketjun yhteydessä?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Sopimus verkkosolmujen välillä",
+          "Correct": true
+        },
+        {
+          "Text": "Hajautettu hallinto",
+          "Correct": true
+        },
+        {
+          "Text": "Yksimielinen päätöksenteko",
+          "Correct": false
+        },
+        {
+          "Text": "Kilpailukykyinen kaivosprosessi",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchain-tapahtumat ovat palautuvia, joten käyttäjät voivat tarvittaessa peruuttaa tapahtumia.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Lohkoketjun älykkäät sopimukset voivat suorittaa vain yksinkertaisia ​​tehtäviä, eivätkä ne pysty monimutkaisiin toimiin.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchainin julkisia avaimia ei pidetä salassa, ja ne jaetaan käyttäjien kesken.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Proof of Stake (PoS) on konsensusmekanismi, joka edellyttää osallistujien osoittavan sitoutumisensa verkostoon ratkaisemalla monimutkaisia ​​matemaattisia ongelmia.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain-tekniikkaa käytetään yksinomaan rahoitustapahtumiin, eikä sillä ole muita sovelluksia kuin kryptovaluuttoja.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

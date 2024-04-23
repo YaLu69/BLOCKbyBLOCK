@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Wat is het belangrijkste voordeel van blockchain-technologie dat in het materiaal wordt genoemd?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Transparantie",
+          "Correct": true
+        },
+        {
+          "Text": "Centralisatie",
+          "Correct": false
+        },
+        {
+          "Text": "Gecontroleerd door een centrale autoriteit",
+          "Correct": false
+        },
+        {
+          "Text": "Trage transactieverwerking",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welke van de volgende is een voorbeeld van een openbare blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Bitcoin",
+          "Correct": true
+        },
+        {
+          "Text": "Een privéclub",
+          "Correct": false
+        },
+        {
+          "Text": "Een geautoriseerde blockchain",
+          "Correct": false
+        },
+        {
+          "Text": "Een gated community",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat is de sleutelrol van consensusmechanismen in een blockchain-netwerk?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Om ervoor te zorgen dat alle knooppunten het eens zijn over de status van het grootboek",
+          "Correct": true
+        },
+        {
+          "Text": "Om de transactiesnelheid te verhogen",
+          "Correct": false
+        },
+        {
+          "Text": "Om alle deelnemers te controleren",
+          "Correct": false
+        },
+        {
+          "Text": "Om transactiedetails te verbergen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat is een slim contract in de context van blockchain-technologie?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Een zelfuitvoerend contract opgeslagen op de blockchain",
+          "Correct": true
+        },
+        {
+          "Text": "Een traditioneel papieren contract",
+          "Correct": false
+        },
+        {
+          "Text": "Een mechanisme voor juridische geschillenbeslechting",
+          "Correct": false
+        },
+        {
+          "Text": "Een contract zonder regels",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welke industrie wordt in het PR2-materiaal niet genoemd als ontwricht door blockchain-technologie?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Onderwijs",
+          "Correct": true
+        },
+        {
+          "Text": "Financiën",
+          "Correct": false
+        },
+        {
+          "Text": "Gezondheidszorg",
+          "Correct": false
+        },
+        {
+          "Text": "Vastgoed",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat zijn de belangrijkste kenmerken van blockchain-technologie, zoals beschreven in het materiaal?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Transparantie",
+          "Correct": true
+        },
+        {
+          "Text": "Onveranderlijkheid",
+          "Correct": true
+        },
+        {
+          "Text": "Centralisatie",
+          "Correct": false
+        },
+        {
+          "Text": "Inefficiëntie",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat zijn de belangrijkste soorten blockchain-netwerken die in het materiaal worden genoemd?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Publieke en private blockchains",
+          "Correct": true
+        },
+        {
+          "Text": "Toegestane en toestemmingloze blockchains",
+          "Correct": true
+        },
+        {
+          "Text": "Hybride blockchains",
+          "Correct": true
+        },
+        {
+          "Text": "Gesloten en open blockchains",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Bij welke blockchain-toepassing die in het PR2-materiaal wordt genoemd, wordt geen permanent grootboek voor landregistraties gemaakt?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "CAD voor kettingen",
+          "Correct": true
+        },
+        {
+          "Text": "Voorraadketenbeheer",
+          "Correct": true
+        },
+        {
+          "Text": "Intelligentie van blokken",
+          "Correct": true
+        },
+        {
+          "Text": "Kadastrale intelligentie",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat zijn de potentiële voordelen van blockchain-technologie, volgens het materiaal?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Transparantie",
+          "Correct": true
+        },
+        {
+          "Text": "Beveiliging",
+          "Correct": true
+        },
+        {
+          "Text": "Schaalbaarheid",
+          "Correct": false
+        },
+        {
+          "Text": "Centralisatie",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat zijn de beperkingen van blockchain-technologie, zoals besproken in het materiaal?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Snelheid en files",
+          "Correct": true
+        },
+        {
+          "Text": "Hoge opslagvereisten",
+          "Correct": true
+        },
+        {
+          "Text": "Gebrek aan doorzichtigheid",
+          "Correct": false
+        },
+        {
+          "Text": "Lage beveiliging",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Zodra een blok aan de blockchain is toegevoegd, kan het eenvoudig worden gewijzigd of verwijderd.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "In toestemmingsloze blockchains zijn er geen beperkingen op wie lid kan worden van het netwerk.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Slimme contracten zijn zelfuitvoerende contracten die niet op de blockchain kunnen worden opgeslagen.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain-technologie kan worden gebruikt bij het creëren van cryptocurrencies zoals Bitcoin en Ethereum.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain kan worden gebruikt om transparante en veilige stemsystemen te creëren.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    }
+  ]
+}

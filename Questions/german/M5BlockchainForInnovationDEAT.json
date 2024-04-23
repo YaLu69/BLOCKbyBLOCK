@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Was ist eine Innovation?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Ergebnisse von Ideen, die in neue Produkte, Dienstleistungen, Prozesse usw. umgesetzt wurden",
+          "Correct": true
+        },
+        {
+          "Text": "Maßnahmen zur Einhaltung nationaler Vorschriften und Gesetze",
+          "Correct": false
+        },
+        {
+          "Text": "Fokussierung auf bestehende Strukturen und Prozesse",
+          "Correct": false
+        },
+        {
+          "Text": "Maßnahmen zur Maximierung des finanziellen Erfolgs einer Organisation",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Was ist der Schwerpunkt von Produktinnovationen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Entwicklung und Implementierung neuer Produkte",
+          "Correct": true
+        },
+        {
+          "Text": "Gestaltung neuer Prozesse",
+          "Correct": false
+        },
+        {
+          "Text": "Unterstützung der Mitarbeiter dabei, produktiver zu werden",
+          "Correct": false
+        },
+        {
+          "Text": "Unterstützung sozialer Aspekte in einer Organisation",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Was ist der Schwerpunkt der Zusammenarbeit zwischen PepsiCo und dem Startup Security Matters?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Entwicklung von BCT-basierten Lösungen zur Identifizierung, Sortierung und Verpackung von Abfällen",
+          "Correct": true
+        },
+        {
+          "Text": "Verwendung von BCT zum Erstellen virtueller Geschäfte",
+          "Correct": false
+        },
+        {
+          "Text": "Anbieten virtueller Token für Online-Shops",
+          "Correct": false
+        },
+        {
+          "Text": "Entwicklung eines spielbasierten Systems zur Käufermotivation",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Der wichtigste Vorteil des Einsatzes von BCT in offenen Innovationsprozessen ist die Frage:",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Wer soll was für seinen Beitrag bekommen?",
+          "Correct": true
+        },
+        {
+          "Text": "Wie viel sollte ich investieren?",
+          "Correct": false
+        },
+        {
+          "Text": "Wie erreiche ich möglichst viele Kunden?",
+          "Correct": false
+        },
+        {
+          "Text": "Wo finde ich weitere Finanzierungsstrukturen?",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "BCT in Bezug auf Innovationsstrategien kann beschrieben werden als...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Die wichtigste Erfindung nach dem Internet",
+          "Correct": true
+        },
+        {
+          "Text": "Mehr bürokratische Hürden für Unternehmen",
+          "Correct": false
+        },
+        {
+          "Text": "Mehr Komplexität in der Produktion",
+          "Correct": false
+        },
+        {
+          "Text": "Ein Bündel von Tools, die sich auf die Ziele der Vereinten Nationen für nachhaltige Entwicklung konzentrieren ",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche der folgenden Punkte sind Arten von Innovationen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Prozessinnovation",
+          "Correct": true
+        },
+        {
+          "Text": "Marktinnovation",
+          "Correct": true
+        },
+        {
+          "Text": "Produktinnovation",
+          "Correct": true
+        },
+        {
+          "Text": "Finanzinnovation",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Was sind Phasen eines Innovationsprozesses?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Innovationsmanagement",
+          "Correct": true
+        },
+        {
+          "Text": "Implementierung",
+          "Correct": true
+        },
+        {
+          "Text": "Eingang",
+          "Correct": true
+        },
+        {
+          "Text": "Rechtliche Beratung",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "In welchen der folgenden Bereiche wird BCT in offenen Innovationsprozessen eingesetzt?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Geistiges Eigentum",
+          "Correct": true
+        },
+        {
+          "Text": "Zusammenarbeit und Kommunikation",
+          "Correct": true
+        },
+        {
+          "Text": "Wertaneignung ",
+          "Correct": true
+        },
+        {
+          "Text": "Technische Überwachung",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Strukturelle Innovationen konzentrieren sich auf...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Neue Jobmodelle",
+          "Correct": true
+        },
+        {
+          "Text": "Personalentwicklung",
+          "Correct": true
+        },
+        {
+          "Text": "Logistik",
+          "Correct": true
+        },
+        {
+          "Text": "Service-Erstellung",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Bereiche des Innovationsmanagements sind...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Erkennung und Bewertung innovativer Prozesse innerhalb und außerhalb eines Unternehmens",
+          "Correct": true
+        },
+        {
+          "Text": "Planung, Steuerung, Umsetzung und Bewertung aller innovativen Aktivitäten in einem Unternehmen",
+          "Correct": true
+        },
+        {
+          "Text": "Festlegung eines Termins für den Markteintritt von Innovationen",
+          "Correct": true
+        },
+        {
+          "Text": "Bewertung der finanziellen und personellen Ressourcen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Ideen sind Ergebnisse interner und externer Quellen.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "BCT unterstützt Innovationsprozesse auf verschiedenen Ebenen.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "McDonald's verzichtete aus rechtlichen Gründen auf die Verwendung von BCT.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "BCT-Systeme verursachen Probleme im Zusammenhang mit IPR.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Prozessinnovationen konzentrieren sich auf die Erschließung neuer Märkte.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

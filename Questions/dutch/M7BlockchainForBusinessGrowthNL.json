@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "De implementatie van blockchain-technologie op operationeel gebied brengt met zich mee...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "processen transparanter en veiliger maken",
+          "Correct": true
+        },
+        {
+          "Text": "processen goedkoper maken",
+          "Correct": false
+        },
+        {
+          "Text": "werknemers helpen minder te werken",
+          "Correct": false
+        },
+        {
+          "Text": "betere organisatie",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "De implementatie van blockchain op verkoopgebied…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "zullen verbeteringen mogelijk maken op het gebied van gebruikersgegevens en personalisatie van diensten",
+          "Correct": true
+        },
+        {
+          "Text": "zal niet belangrijk zijn, vanwege het gebrek aan investeringen op dit gebied",
+          "Correct": false
+        },
+        {
+          "Text": "moeten beter worden aangepast om nuttig te zijn",
+          "Correct": false
+        },
+        {
+          "Text": "zal de kosten verlagen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "De implementatie van blockchain-technologie in het management zal verbeteringen mogelijk maken in…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Alle andere opties zijn correct",
+          "Correct": true
+        },
+        {
+          "Text": "besluitvorming via corporate governance",
+          "Correct": false
+        },
+        {
+          "Text": "de oprichting van externe bestuurders",
+          "Correct": false
+        },
+        {
+          "Text": "effectiever toezicht en controle",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat is de belangrijkste functie van de verkoopruimte?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Het deelnemen aan diverse activiteiten om de aankoop van een product door een klant te promoten",
+          "Correct": true
+        },
+        {
+          "Text": "Inclusief de ontwikkeling van producten/diensten",
+          "Correct": false
+        },
+        {
+          "Text": "Het beheren van de begroting en financiële zaken",
+          "Correct": false
+        },
+        {
+          "Text": "Materialen kopen bij leveranciers",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "De Bedrijfsleiding is verantwoordelijk voor…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "het beheren van de productieve middelen van een organisatie",
+          "Correct": true
+        },
+        {
+          "Text": "omvat de ontwikkeling van producten en diensten",
+          "Correct": false
+        },
+        {
+          "Text": "het behalen van de commerciële doelstellingen",
+          "Correct": false
+        },
+        {
+          "Text": "het beheren van de vakanties van de medewerkers",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "De afdeling Operaties is verantwoordelijk voor…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Ontwikkeling van producten/diensten",
+          "Correct": true
+        },
+        {
+          "Text": "Productie en uitvoering van de projecten",
+          "Correct": true
+        },
+        {
+          "Text": "Logistiek",
+          "Correct": true
+        },
+        {
+          "Text": "Geen van de opties is correct",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "De principes van blockchain-technologie die de bedrijfsgroei kunnen helpen zijn:",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Het verminderen van risico's en het waarborgen van gegevensbescherming en duidelijkheid",
+          "Correct": true
+        },
+        {
+          "Text": "Verbeterde legitimiteit en transparantie",
+          "Correct": true
+        },
+        {
+          "Text": "Vereenvoudiging en optimalisatie van systemen",
+          "Correct": true
+        },
+        {
+          "Text": "Verbetering van de relaties met werknemers",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchain kan…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "verbeter de communicatie en de overdracht van documenten met klanten, leveranciers en personeel",
+          "Correct": true
+        },
+        {
+          "Text": "controle en verbetering van de kwaliteit van de informatie",
+          "Correct": true
+        },
+        {
+          "Text": "toestemming verlenen voor toegang",
+          "Correct": true
+        },
+        {
+          "Text": "het budget beter beheren",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "De implementatie van blockchain in de verkoopruimte zal dit mogelijk maken",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "verbeteringen bij het verkrijgen van financiering",
+          "Correct": true
+        },
+        {
+          "Text": "openheid voor investeerders",
+          "Correct": true
+        },
+        {
+          "Text": "het vaststellen van garanties en/of winstgevendheid van investeringen",
+          "Correct": true
+        },
+        {
+          "Text": "Geen van de opties is correct",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchain kan nuttig zijn bij…",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Operatie gebied",
+          "Correct": true
+        },
+        {
+          "Text": "Verkoopgebied",
+          "Correct": true
+        },
+        {
+          "Text": "Financiën gebied",
+          "Correct": true
+        },
+        {
+          "Text": "Personeelszaken",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Het Blockchain-systeem kan worden gebruikt op operationeel, verkoop- en financieel gebied, en in bedrijfsbeheer.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain kan de traceerbaarheidsprocessen binnen het operatiegebied verbeteren.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain is een technologische structuur die niets nieuws toevoegt aan de verkoop en de relatie met klanten, omdat het iets puur technologisch is.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Binnen het vakgebied Bussines Management kan blockchain helpen bij het nemen van beslissingen, omdat het bijdraagt ​​aan transparantie en corporate governance.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Op het gebied van bedrijfsmanagement kan blockchain niet helpen bij het nemen van beslissingen, omdat alles onder hogere controle staat en het proces ingewikkelder is.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

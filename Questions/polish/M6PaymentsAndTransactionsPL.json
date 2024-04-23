@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Jakie są główne zalety płatności opartych na blockchainie?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Wszystkie inne odpowiedzi",
+          "Correct": true
+        },
+        {
+          "Text": "Prędkość",
+          "Correct": false
+        },
+        {
+          "Text": "Niski poziom energii",
+          "Correct": false
+        },
+        {
+          "Text": "Bezpieczeństwo",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Które z poniższych nie jest głównym wyzwaniem w płatnościach typu blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Anonimowość użytkownika",
+          "Correct": true
+        },
+        {
+          "Text": "Złożone procesy transakcyjne",
+          "Correct": false
+        },
+        {
+          "Text": "Wysokie koszty transakcyjne",
+          "Correct": false
+        },
+        {
+          "Text": "Złożone problemy skalowalności",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Co oznacza termin „inteligentne kontrakty” w kontekście płatności blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Umowy automatyczne i samowykonujące się",
+          "Correct": true
+        },
+        {
+          "Text": "Płatności nielegalne",
+          "Correct": false
+        },
+        {
+          "Text": "Transakcje jednorazowe",
+          "Correct": false
+        },
+        {
+          "Text": "Płatności wymagające dwóch smartfonów",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Która z poniższych kryptowalut jest najczęściej używana do transakcji na blockchainie?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Bitcoina",
+          "Correct": true
+        },
+        {
+          "Text": "Eter",
+          "Correct": false
+        },
+        {
+          "Text": "Marszczyć",
+          "Correct": false
+        },
+        {
+          "Text": "Litecoin",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Jakie jest główne zastosowanie technologii blockchain w transakcjach finansowych?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Przeprowadzanie płatności bez pośrednictwa",
+          "Correct": true
+        },
+        {
+          "Text": "Zabezpieczanie danych osobowych",
+          "Correct": false
+        },
+        {
+          "Text": "Przechowywanie dużych ilości danych w chmurze",
+          "Correct": false
+        },
+        {
+          "Text": "Tworzenie kopii zapasowych transakcji",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Jaki jest główny cel klucza publicznego w transakcjach typu blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Do szyfrowania danych transakcyjnych",
+          "Correct": true
+        },
+        {
+          "Text": "Aby zidentyfikować nadawcę i odbiorcę",
+          "Correct": true
+        },
+        {
+          "Text": "Aby odszyfrować dane transakcji",
+          "Correct": false
+        },
+        {
+          "Text": "Aby wydobywać nową kryptowalutę",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Jaka jest potencjalna korzyść ze stosowania rozproszonej księgi głównej w blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Poprawiona skalowalność",
+          "Correct": true
+        },
+        {
+          "Text": "Większa prędkość transakcji",
+          "Correct": true
+        },
+        {
+          "Text": "Scentralizowana kontrola",
+          "Correct": false
+        },
+        {
+          "Text": "Wyższe zużycie energii",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Jakie mechanizmy konsensusu są używane do sprawdzania poprawności transakcji w łańcuchu bloków?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Dowód pracy (PoW)",
+          "Correct": true
+        },
+        {
+          "Text": "Delegowany dowód stawki (DPoS)",
+          "Correct": true
+        },
+        {
+          "Text": "Potwierdzenie uprawnień (PoA)",
+          "Correct": false
+        },
+        {
+          "Text": "Dowód transakcji (PoT)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Jaka jest rola klucza prywatnego w bezpieczeństwie blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Szyfrowanie danych transakcyjnych",
+          "Correct": true
+        },
+        {
+          "Text": "Odszyfrowanie danych transakcji",
+          "Correct": true
+        },
+        {
+          "Text": "Generowanie nowych bloków blockchain",
+          "Correct": false
+        },
+        {
+          "Text": "Identyfikacja użytkownika publicznie",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Do czego w kontekście blockchainu odnosi się termin „konsensus”?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Umowa pomiędzy węzłami sieci",
+          "Correct": true
+        },
+        {
+          "Text": "Zdecentralizowane zarządzanie",
+          "Correct": true
+        },
+        {
+          "Text": "Jednomyślne podejmowanie decyzji",
+          "Correct": false
+        },
+        {
+          "Text": "Konkurencyjny proces wydobycia",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Transakcje Blockchain są odwracalne, co pozwala użytkownikom na cofanie transakcji w razie potrzeby.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Inteligentne kontrakty w blockchainie mogą wykonywać jedynie proste zadania i nie są w stanie wykonywać skomplikowanych operacji.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Klucze publiczne w blockchainie nie są trzymane w tajemnicy i są współdzielone pomiędzy użytkownikami.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Proof of Stake (PoS) to mechanizm konsensusu, który wymaga od uczestników wykazania się zaangażowaniem w sieć poprzez rozwiązywanie złożonych problemów matematycznych.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Technologia Blockchain jest wykorzystywana wyłącznie w transakcjach finansowych i nie ma żadnych zastosowań poza sferą kryptowalut.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}

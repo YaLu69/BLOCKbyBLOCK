@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Was ist der im Material erwähnte Hauptvorteil der Blockchain-Technologie?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Transparenz",
+          "Correct": true
+        },
+        {
+          "Text": "Zentralisierung",
+          "Correct": false
+        },
+        {
+          "Text": "Von einer zentralen Behörde kontrolliert",
+          "Correct": false
+        },
+        {
+          "Text": "Langsame Transaktionsverarbeitung",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welches der folgenden ist ein Beispiel für eine öffentliche Blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Bitcoin",
+          "Correct": true
+        },
+        {
+          "Text": "Ein privater Club",
+          "Correct": false
+        },
+        {
+          "Text": "Eine autorisierte Blockchain",
+          "Correct": false
+        },
+        {
+          "Text": "Eine geschlossene Wohnanlage",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche Schlüsselrolle spielen Konsensmechanismen in einem Blockchain-Netzwerk?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Um sicherzustellen, dass sich alle Knoten über den Status des Ledgers einig sind",
+          "Correct": true
+        },
+        {
+          "Text": "Um die Transaktionsgeschwindigkeit zu erhöhen",
+          "Correct": false
+        },
+        {
+          "Text": "Zur Kontrolle aller Teilnehmer",
+          "Correct": false
+        },
+        {
+          "Text": "Um Transaktionsdetails auszublenden",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Was ist ein Smart Contract im Kontext der Blockchain-Technologie?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Ein selbstausführender Vertrag, der in der Blockchain gespeichert ist",
+          "Correct": true
+        },
+        {
+          "Text": "Ein traditioneller Papiervertrag",
+          "Correct": false
+        },
+        {
+          "Text": "Ein Mechanismus zur Beilegung von Rechtsstreitigkeiten",
+          "Correct": false
+        },
+        {
+          "Text": "Ein Vertrag ohne Regeln",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche Branche wird im PR2-Material nicht als durch die Blockchain-Technologie revolutioniert erwähnt?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Ausbildung",
+          "Correct": true
+        },
+        {
+          "Text": "Finanzen",
+          "Correct": false
+        },
+        {
+          "Text": "Gesundheitspflege",
+          "Correct": false
+        },
+        {
+          "Text": "Immobilie",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Was sind die Hauptmerkmale der Blockchain-Technologie, wie im Material beschrieben?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Transparenz",
+          "Correct": true
+        },
+        {
+          "Text": "Unveränderlichkeit",
+          "Correct": true
+        },
+        {
+          "Text": "Zentralisierung",
+          "Correct": false
+        },
+        {
+          "Text": "Ineffizienz",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche Haupttypen von Blockchain-Netzwerken werden im Material erwähnt?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Öffentliche und private Blockchains",
+          "Correct": true
+        },
+        {
+          "Text": "Erlaubte und erlaubnislose Blockchains",
+          "Correct": true
+        },
+        {
+          "Text": "Hybride Blockchains",
+          "Correct": true
+        },
+        {
+          "Text": "Geschlossene und offene Blockchains",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche im PR2-Material erwähnte Blockchain-Anwendung beinhaltet nicht die Erstellung eines permanenten öffentlichen Grundbuchs für Grundbucheinträge?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Cad für Ketten",
+          "Correct": true
+        },
+        {
+          "Text": "Lieferkettenmanagement",
+          "Correct": true
+        },
+        {
+          "Text": "Intelligenz von Blöcken",
+          "Correct": true
+        },
+        {
+          "Text": "Katasterinformationen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Was sind laut Material die potenziellen Vorteile der Blockchain-Technologie?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Transparenz",
+          "Correct": true
+        },
+        {
+          "Text": "Sicherheit",
+          "Correct": true
+        },
+        {
+          "Text": "Skalierbarkeit",
+          "Correct": false
+        },
+        {
+          "Text": "Zentralisierung",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welche Einschränkungen gibt es bei der Blockchain-Technologie, wie im Material erläutert?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Geschwindigkeit und Stau",
+          "Correct": true
+        },
+        {
+          "Text": "Hoher Lagerbedarf",
+          "Correct": true
+        },
+        {
+          "Text": "Mangel an Transparenz",
+          "Correct": false
+        },
+        {
+          "Text": "Geringe Sicherheit",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Sobald ein Block zur Blockchain hinzugefügt wurde, kann er leicht geändert oder gelöscht werden.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "In erlaubnislosen Blockchains gibt es keine Einschränkungen, wer dem Netzwerk beitreten kann.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Smart Contracts sind selbstausführende Verträge, die nicht auf der Blockchain gespeichert werden können.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Die Blockchain-Technologie kann bei der Schaffung von Kryptowährungen wie Bitcoin und Ethereum eingesetzt werden.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Mit Blockchain können transparente und sichere Abstimmungssysteme geschaffen werden.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    }
+  ]
+}

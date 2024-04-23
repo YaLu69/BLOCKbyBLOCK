@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "En el contexto de la sostenibilidad ambiental, ¿cuál es la principal ventaja de utilizar blockchain para la transparencia de la cadena de suministro?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Trazabilidad mejorada",
+          "Correct": true
+        },
+        {
+          "Text": "Mayor opacidad",
+          "Correct": false
+        },
+        {
+          "Text": "Contaminación mejorada",
+          "Correct": false
+        },
+        {
+          "Text": "Control centralizado",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Qué papel puede desempeñar blockchain en la promoción de fuentes de energía renovables?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Permitir transacciones de energía transparentes y rastreables",
+          "Correct": true
+        },
+        {
+          "Text": "Fomentar el control centralizado de la producción de energía.",
+          "Correct": false
+        },
+        {
+          "Text": "Facilitar el consumo anónimo de energía",
+          "Correct": false
+        },
+        {
+          "Text": "Creciente dependencia de energías no renovables",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cómo contribuye blockchain a la gestión sostenible de residuos?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Descentralizar el control de la gestión de residuos",
+          "Correct": true
+        },
+        {
+          "Text": "Promoción de actividades de vertidos ilegales",
+          "Correct": false
+        },
+        {
+          "Text": "Aumento de la opacidad en los procesos de eliminación de residuos",
+          "Correct": false
+        },
+        {
+          "Text": "Fomentar la producción de plástico de un solo uso",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cuál es el beneficio ambiental potencial del uso de blockchain en la agricultura sostenible?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Mejorar la trazabilidad de las cadenas de suministro de alimentos",
+          "Correct": true
+        },
+        {
+          "Text": "Centralizar el control del uso de pesticidas",
+          "Correct": false
+        },
+        {
+          "Text": "Fomentar la deforestación para la expansión agrícola",
+          "Correct": false
+        },
+        {
+          "Text": "Creciente dependencia de prácticas agrícolas nocivas",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cómo puede la tecnología blockchain contribuir a las iniciativas de compensación de carbono para la conservación del medio ambiente?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verificar y registrar transacciones de créditos de carbono",
+          "Correct": true
+        },
+        {
+          "Text": "Automatizando los procesos de deforestación",
+          "Correct": false
+        },
+        {
+          "Text": "Aumento de la contaminación del aire",
+          "Correct": false
+        },
+        {
+          "Text": "Centralizar el control de los datos de emisiones",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cómo contribuye la tecnología blockchain a la agricultura sostenible?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Mejorar la trazabilidad de las cadenas de suministro de alimentos",
+          "Correct": true
+        },
+        {
+          "Text": "Facilitar el control descentralizado de los procesos agrícolas",
+          "Correct": true
+        },
+        {
+          "Text": "Creciente dependencia de prácticas agrícolas nocivas",
+          "Correct": false
+        },
+        {
+          "Text": "Promoción de la deforestación para la expansión agrícola",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿De qué manera puede blockchain apoyar los esfuerzos de conservación ambiental?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verificar y registrar transacciones de créditos de carbono",
+          "Correct": true
+        },
+        {
+          "Text": "Mejorar la transparencia en la financiación de la conservación",
+          "Correct": true
+        },
+        {
+          "Text": "Automatización de procesos de tala ilegal",
+          "Correct": false
+        },
+        {
+          "Text": "Permitir transacciones comerciales anónimas de vida silvestre",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cómo contribuye blockchain a la gestión sostenible de residuos?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Descentralizar el control de la gestión de residuos",
+          "Correct": true
+        },
+        {
+          "Text": "Mejorar la trazabilidad de la eliminación de residuos",
+          "Correct": true
+        },
+        {
+          "Text": "Fomento de actividades de vertidos ilegales",
+          "Correct": false
+        },
+        {
+          "Text": "Fomento de la producción de plástico de un solo uso",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cómo puede la tecnología blockchain contribuir a las prácticas sostenibles en la gestión de residuos?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Mejora de la trazabilidad de la eliminación de residuos",
+          "Correct": true
+        },
+        {
+          "Text": "Mejorando los procesos de reciclaje",
+          "Correct": true
+        },
+        {
+          "Text": "Aumento de incidentes de vertidos ilegales",
+          "Correct": false
+        },
+        {
+          "Text": "Facilitar la exportación de residuos no autorizada",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "¿Cuáles son los posibles beneficios de integrar blockchain en el seguimiento de las evaluaciones de impacto ambiental?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Garantizar la transparencia de los datos",
+          "Correct": true
+        },
+        {
+          "Text": "Mejorar la rendición de cuentas en la presentación de informes",
+          "Correct": true
+        },
+        {
+          "Text": "Facilitar prácticas de lavado verde",
+          "Correct": false
+        },
+        {
+          "Text": "Agilización de los procesos de aprobación",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "La naturaleza descentralizada de Blockchain puede mejorar la transparencia y la rendición de cuentas en la presentación de informes de datos ambientales.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Los contratos inteligentes en una cadena de bloques pueden ayudar a automatizar y optimizar la asignación de recursos de manera sostenible.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "La tecnología blockchain es la única responsable del aumento de la contaminación ambiental.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "En una red blockchain con fines medioambientales, los nodos tienen el mismo control sobre la toma de decisiones.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "La inmutabilidad de Blockchain garantiza que los registros ambientales históricos no puedan ser alterados.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Wat is, in de context van ecologische duurzaamheid, een primair voordeel van het gebruik van blockchain voor transparantie in de toeleveringsketen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verbeterde traceerbaarheid",
+          "Correct": true
+        },
+        {
+          "Text": "Verhoogde dekking",
+          "Correct": false
+        },
+        {
+          "Text": "Verbeterde vervuiling",
+          "Correct": false
+        },
+        {
+          "Text": "Gecentraliseerde controle",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welke rol kan blockchain spelen bij het bevorderen van hernieuwbare energiebronnen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Transparante en traceerbare energietransacties mogelijk maken",
+          "Correct": true
+        },
+        {
+          "Text": "Het aanmoedigen van gecentraliseerde controle van de energieproductie",
+          "Correct": false
+        },
+        {
+          "Text": "Anoniem energieverbruik faciliteren",
+          "Correct": false
+        },
+        {
+          "Text": "Toenemende afhankelijkheid van niet-hernieuwbare energie",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Hoe draagt ​​blockchain bij aan duurzaam afvalbeheer?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Decentralisatie van de controle op afvalbeheer",
+          "Correct": true
+        },
+        {
+          "Text": "Het bevorderen van illegale dumpactiviteiten",
+          "Correct": false
+        },
+        {
+          "Text": "Toenemende ondoorzichtigheid in afvalverwerkingsprocessen",
+          "Correct": false
+        },
+        {
+          "Text": "Het stimuleren van de productie van plastic voor eenmalig gebruik",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat is een potentieel milieuvoordeel van het gebruik van blockchain in duurzame landbouw?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verbetering van de traceerbaarheid van voedselvoorzieningsketens",
+          "Correct": true
+        },
+        {
+          "Text": "Centralisatie van de controle op het gebruik van pesticiden",
+          "Correct": false
+        },
+        {
+          "Text": "Ontbossing aanmoedigen voor uitbreiding van de landbouw",
+          "Correct": false
+        },
+        {
+          "Text": "Toenemende afhankelijkheid van schadelijke landbouwpraktijken",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Hoe kan blockchain-technologie bijdragen aan initiatieven voor CO2-compensatie voor milieubehoud?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Het verifiëren en vastleggen van koolstofkrediettransacties",
+          "Correct": true
+        },
+        {
+          "Text": "Automatisering van ontbossingsprocessen",
+          "Correct": false
+        },
+        {
+          "Text": "Toenemende luchtvervuiling",
+          "Correct": false
+        },
+        {
+          "Text": "Centralisatie van de controle over emissiegegevens",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Hoe draagt ​​blockchaintechnologie bij aan duurzame landbouw?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verbetering van de traceerbaarheid van voedselvoorzieningsketens",
+          "Correct": true
+        },
+        {
+          "Text": "Faciliteren van gedecentraliseerde controle over landbouwprocessen",
+          "Correct": true
+        },
+        {
+          "Text": "Toenemende afhankelijkheid van schadelijke landbouwpraktijken",
+          "Correct": false
+        },
+        {
+          "Text": "Bevordering van ontbossing voor uitbreiding van de landbouw",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Op welke manieren kan blockchain inspanningen voor milieubehoud ondersteunen?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Het verifiëren en vastleggen van koolstofkrediettransacties",
+          "Correct": true
+        },
+        {
+          "Text": "Het vergroten van de transparantie in de financiering van natuurbehoud",
+          "Correct": true
+        },
+        {
+          "Text": "Automatisering van illegale houtkapprocessen",
+          "Correct": false
+        },
+        {
+          "Text": "Anonieme handelstransacties in wilde dieren toestaan",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Hoe draagt ​​blockchain bij aan duurzaam afvalbeheer?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Decentralisatie van de controle op afvalbeheer",
+          "Correct": true
+        },
+        {
+          "Text": "Verbetering van de traceerbaarheid van afvalverwerking",
+          "Correct": true
+        },
+        {
+          "Text": "Het aanmoedigen van illegale dumpactiviteiten",
+          "Correct": false
+        },
+        {
+          "Text": "Bevordering van de productie van plastic voor eenmalig gebruik",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Hoe kan blockchain-technologie bijdragen aan duurzame praktijken op het gebied van afvalbeheer?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verbetering van de traceerbaarheid van afvalverwerking",
+          "Correct": true
+        },
+        {
+          "Text": "Verbetering van recyclingprocessen",
+          "Correct": true
+        },
+        {
+          "Text": "Toenemende gevallen van illegale dumping",
+          "Correct": false
+        },
+        {
+          "Text": "Het faciliteren van ongeoorloofde afvalexport",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat zijn potentiële voordelen van het integreren van blockchain in de monitoring van milieueffectrapportages?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Zorgen voor transparantie van gegevens",
+          "Correct": true
+        },
+        {
+          "Text": "Verbetering van de verantwoording in de rapportage",
+          "Correct": true
+        },
+        {
+          "Text": "Faciliteren van Greenwashing-praktijken",
+          "Correct": false
+        },
+        {
+          "Text": "Goedkeuringsprocessen stroomlijnen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Het gedecentraliseerde karakter van Blockchain kan de transparantie en verantwoording bij de rapportage van milieugegevens vergroten.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Slimme contracten op een blockchain kunnen de toewijzing van middelen op een duurzame manier helpen automatiseren en optimaliseren.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchaintechnologie is als enige verantwoordelijk voor de toenemende milieuvervuiling.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "In een blockchain-netwerk voor milieudoeleinden hebben knooppunten gelijke controle over de besluitvorming.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "De onveranderlijkheid van Blockchain zorgt ervoor dat er niet met historische milieugegevens kan worden geknoeid.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    }
+  ]
+}

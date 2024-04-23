@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Welke rol speelt decentralisatie in blockchain-technologie voor startups?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Beveiliging verbeteren",
+          "Correct": true
+        },
+        {
+          "Text": "Transactiesnelheid verminderen",
+          "Correct": false
+        },
+        {
+          "Text": "Toenemende gecentraliseerde controle",
+          "Correct": false
+        },
+        {
+          "Text": "Minimaliseren van transparantie",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat is het primaire doel van het gebruik van slimme contracten in blockchain-technologie voor startups?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Het afdwingen van juridische contracten",
+          "Correct": true
+        },
+        {
+          "Text": "Verbetering van de gegevensprivacy",
+          "Correct": false
+        },
+        {
+          "Text": "Verbetering van de netwerkbeveiliging",
+          "Correct": false
+        },
+        {
+          "Text": "Het stroomlijnen van betalingsprocessen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat is een belangrijk kenmerk dat een publieke blockchain onderscheidt van een private blockchain?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Vrije toegang",
+          "Correct": true
+        },
+        {
+          "Text": "Beperkt aantal deelnemers",
+          "Correct": false
+        },
+        {
+          "Text": "Trage transactiesnelheid",
+          "Correct": false
+        },
+        {
+          "Text": "Gecentraliseerde controle",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Hoe draagt ​​blockchain bij aan meer transparantie in de bedrijfsvoering voor startups?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Het verstrekken van een gedeeld grootboek",
+          "Correct": true
+        },
+        {
+          "Text": "Alle gegevens coderen",
+          "Correct": false
+        },
+        {
+          "Text": "Anonimiteit toestaan",
+          "Correct": false
+        },
+        {
+          "Text": "Centraliserende controle",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welk consensusmechanisme wordt vaak geassocieerd met blockchain-netwerken?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Bewijs van inzet (PoS)",
+          "Correct": true
+        },
+        {
+          "Text": "Bewijs van autoriteit (PoA)",
+          "Correct": false
+        },
+        {
+          "Text": "Bewijs van werk (PoW)",
+          "Correct": false
+        },
+        {
+          "Text": "Gedelegeerd bewijs van inzet (DPoS)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Wat zijn de potentiële voordelen van het implementeren van blockchain-technologie in een startup?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verbeterde beveiliging",
+          "Correct": true
+        },
+        {
+          "Text": "Verhoogde transparantie",
+          "Correct": true
+        },
+        {
+          "Text": "Lagere operationele kosten",
+          "Correct": true
+        },
+        {
+          "Text": "Hogere transactiesnelheden",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welke componenten zijn essentieel voor een succesvolle blockchain-implementatie in een startup? ",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Consensusmechanisme",
+          "Correct": true
+        },
+        {
+          "Text": "Slimme contracten",
+          "Correct": true
+        },
+        {
+          "Text": "Publieke Sleutel Infrastructuur (PKI)",
+          "Correct": false
+        },
+        {
+          "Text": "Gecentraliseerde database",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Hoe kunnen startups blockchain inzetten voor supply chain management?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Verbeterde traceerbaarheid",
+          "Correct": true
+        },
+        {
+          "Text": "Realtime monitoring",
+          "Correct": true
+        },
+        {
+          "Text": "Kostenbesparing",
+          "Correct": true
+        },
+        {
+          "Text": "Eliminatie van cyberveiligheidsrisico's",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Met welke uitdagingen kunnen startups worden geconfronteerd bij het adopteren van blockchain-technologie?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Integratiecomplexiteit",
+          "Correct": true
+        },
+        {
+          "Text": "Beperkte schaalbaarheid",
+          "Correct": true
+        },
+        {
+          "Text": "Naleving van de regelgeving",
+          "Correct": true
+        },
+        {
+          "Text": "Verhoogde centralisatie",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Welke industrieën kunnen het meeste profiteren van de adoptie van blockchain bij startups?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Gezondheidszorg",
+          "Correct": true
+        },
+        {
+          "Text": "landbouw",
+          "Correct": true
+        },
+        {
+          "Text": "Amusement",
+          "Correct": false
+        },
+        {
+          "Text": "Mode",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Blockchain-technologie wordt voornamelijk geassocieerd met cryptocurrencies.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Slimme contracten in blockchain maken de uitvoering van vooraf gedefinieerde voorwaarden mogelijk zonder de noodzaak van tussenpersonen.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain-technologie is onveranderlijk, wat betekent dat zodra gegevens zijn vastgelegd, deze niet meer kunnen worden gewijzigd.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Publieke en private sleutels in blockchain worden gebruikt voor authenticatie en gegevensversleuteling.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "Blockchain kan de noodzaak van verificatie door derden elimineren, waardoor de transactiekosten voor startups worden verlaagd.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "Questions": [
+    {
+      "Question": "Co to jest innowacja?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Wyniki pomysłów wdrożonych w nowych produktach, usługach, procesach itp",
+          "Correct": true
+        },
+        {
+          "Text": "Środki wymagane do przestrzegania krajowych przepisów i ustaw",
+          "Correct": false
+        },
+        {
+          "Text": "Koncentracja na istniejących strukturach i procesach",
+          "Correct": false
+        },
+        {
+          "Text": "Środki maksymalizujące sukces finansowy organizacji",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Na czym skupiają się innowacje produktowe?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Opracowywanie i wdrażanie nowych produktów",
+          "Correct": true
+        },
+        {
+          "Text": "Projektowanie nowych procesów",
+          "Correct": false
+        },
+        {
+          "Text": "Wspieranie pracowników w zwiększaniu produktywności",
+          "Correct": false
+        },
+        {
+          "Text": "Wspieranie aspektów społecznych w organizacji",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Na czym skupia się współpraca PepsiCo ze start-upem Security Matters?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Rozwój rozwiązań opartych na technologii BCT w zakresie identyfikacji, sortowania i pakowania odpadów",
+          "Correct": true
+        },
+        {
+          "Text": "Wykorzystanie BCT do tworzenia wirtualnych sklepów",
+          "Correct": false
+        },
+        {
+          "Text": "Oferowanie wirtualnych tokenów dla sklepów internetowych",
+          "Correct": false
+        },
+        {
+          "Text": "Opracowanie systemu motywowania kupujących opartego na grach",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Najważniejszą korzyścią ze stosowania BCT w otwartych procesach innowacyjnych jest pytanie:",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Kto i co powinien otrzymać w zamian za swój wkład?",
+          "Correct": true
+        },
+        {
+          "Text": "Ile powinienem zainwestować?",
+          "Correct": false
+        },
+        {
+          "Text": "Jak dotrzeć do jak największej liczby klientów?",
+          "Correct": false
+        },
+        {
+          "Text": "Gdzie mogę znaleźć dodatkowe struktury finansowania?",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "BCT w odniesieniu do strategii innowacyjnych można opisać jako...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Najważniejszy wynalazek po Internecie",
+          "Correct": true
+        },
+        {
+          "Text": "Więcej biurokratycznych przeszkód dla firm",
+          "Correct": false
+        },
+        {
+          "Text": "Większa złożoność produkcji",
+          "Correct": false
+        },
+        {
+          "Text": "Pakiet narzędzi skupiających się na celach zrównoważonego rozwoju Organizacji Narodów Zjednoczonych ",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Które z poniższych punktów są rodzajami innowacji?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Innowacje procesowe",
+          "Correct": true
+        },
+        {
+          "Text": "Innowacja rynkowa",
+          "Correct": true
+        },
+        {
+          "Text": "Innowacja produktowa",
+          "Correct": true
+        },
+        {
+          "Text": "Innowacje finansowe",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Jakie są etapy procesu innowacyjnego?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Zarządzanie innowacjami",
+          "Correct": true
+        },
+        {
+          "Text": "Realizacja",
+          "Correct": true
+        },
+        {
+          "Text": "Wejście",
+          "Correct": true
+        },
+        {
+          "Text": "Porada prawna",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "W którym z poniższych obszarów BCT znajduje zastosowanie w otwartych procesach innowacyjnych?",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Prawa własności intelektualnej",
+          "Correct": true
+        },
+        {
+          "Text": "Współpraca i komunikacja",
+          "Correct": true
+        },
+        {
+          "Text": "Zawłaszczenie wartości ",
+          "Correct": true
+        },
+        {
+          "Text": "Monitoring techniczny",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Innowacje strukturalne koncentrują się na...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Nowe modele pracy",
+          "Correct": true
+        },
+        {
+          "Text": "Rozwój HR",
+          "Correct": true
+        },
+        {
+          "Text": "Logistyka",
+          "Correct": true
+        },
+        {
+          "Text": "Tworzenie usług",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Obszary zarządzania innowacjami to...",
+      "Explanation": "",
+      "Image": "",
+      "isToF": false,
+      "ToFAnswer": false,
+      "Answers": [
+        {
+          "Text": "Wykrywanie i ocena procesów innowacyjnych w firmie i poza nią",
+          "Correct": true
+        },
+        {
+          "Text": "Planowanie, kierowanie, wdrażanie i ocena wszystkich innowacyjnych działań w firmie",
+          "Correct": true
+        },
+        {
+          "Text": "Definicja daty wejścia innowacji na rynek",
+          "Correct": true
+        },
+        {
+          "Text": "Ocena zasobów finansowych i ludzkich",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "Question": "Pomysły są rezultatem źródeł wewnętrznych i zewnętrznych.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "BCT wspiera procesy innowacyjne na różnych poziomach.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": true,
+      "Answers": []
+    },
+    {
+      "Question": "McDonald’s unikał korzystania z BCT ze względów prawnych.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Systemy BCT powodują problemy związane z prawami własności intelektualnej.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    },
+    {
+      "Question": "Innowacje procesowe skupiają się na otwieraniu nowych rynków.",
+      "Explanation": "",
+      "Image": "",
+      "isToF": true,
+      "ToFAnswer": false,
+      "Answers": []
+    }
+  ]
+}
